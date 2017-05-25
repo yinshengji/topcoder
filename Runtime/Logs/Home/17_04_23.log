@@ -1,0 +1,2000 @@
+[ 2017-04-23T19:55:32+08:00 ] ::1 /XXXX/TC/index.php/Inform/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000997s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000634s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000767s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-04-23T19:55:33+08:00 ] ::1 /XXXX/TC/index.php/Inform/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000895s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000827s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001064s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-04-23T19:56:31+08:00 ] ::1 /XXXX/TC/index.php/Inform/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000671s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000772s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000940s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0166s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] filemtime(): stat failed for F:/wamp/www/XXXX/TC/Runtime/Cache\3be93cf925852226febbb19582a46dde90130ba3.file.login.html.php F:\wamp\www\XXXX\ThinkPHP\Library\Vendor\Smarty\sysplugins\smarty_resource.php 第 683 行.
+NOTIC: [2] unlink(F:/wamp/www/XXXX/TC/Runtime/Cache\3be93cf925852226febbb19582a46dde90130ba3.file.login.html.php): No such file or directory F:\wamp\www\XXXX\ThinkPHP\Library\Vendor\Smarty\sysplugins\smarty_internal_write_file.php 第 49 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.132099s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.132251s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000480s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000582s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000517s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000621s ]
+
+[ 2017-04-23T19:56:31+08:00 ] ::1 /XXXX/TC/index.php/Inform/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000679s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000799s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000699s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000875s ]
+
+[ 2017-04-23T19:57:03+08:00 ] ::1 /XXXX/TC/index.php/Inform/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000689s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000728s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000903s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0437s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] filemtime(): stat failed for F:/wamp/www/XXXX/TC/Runtime/Cache\1e975022955227718434bedb3fa38076781d872e.file.register.html.php F:\wamp\www\XXXX\ThinkPHP\Library\Vendor\Smarty\sysplugins\smarty_resource.php 第 683 行.
+NOTIC: [2] unlink(F:/wamp/www/XXXX/TC/Runtime/Cache\1e975022955227718434bedb3fa38076781d872e.file.register.html.php): No such file or directory F:\wamp\www\XXXX\ThinkPHP\Library\Vendor\Smarty\sysplugins\smarty_internal_write_file.php 第 49 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.104135s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.104313s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000580s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000494s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000600s ]
+
+[ 2017-04-23T19:58:25+08:00 ] ::1 /XXXX/TC/index.php/Inform/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000786s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+NOTIC: [8] Undefined index: drop F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 62 行.
+NOTIC: [8] Undefined index: submit F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 65 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] filemtime(): stat failed for F:/wamp/www/XXXX/TC/Runtime/Cache\51be42844d9c0bf8fba6bac439497e7600e50239.file.add.html.php F:\wamp\www\XXXX\ThinkPHP\Library\Vendor\Smarty\sysplugins\smarty_resource.php 第 683 行.
+NOTIC: [2] unlink(F:/wamp/www/XXXX/TC/Runtime/Cache\51be42844d9c0bf8fba6bac439497e7600e50239.file.add.html.php): No such file or directory F:\wamp\www\XXXX\ThinkPHP\Library\Vendor\Smarty\sysplugins\smarty_internal_write_file.php 第 49 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.129028s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.129154s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000505s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000606s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000482s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000619s ]
+
+[ 2017-04-23T19:58:45+08:00 ] ::1 /XXXX/TC/index.php/Inform/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000685s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0141s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012053s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012188s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000401s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000512s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000625s ]
+
+[ 2017-04-23T19:58:45+08:00 ] ::1 /XXXX/TC/index.php/Inform/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000961s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001304s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000768s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-04-23T19:59:16+08:00 ] ::1 /XXXX/TC/index.php/Inform/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000628s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.1371s ]
+NOTIC: [8] Undefined index: drop F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 135 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_greatest` LIMIT 1   [ RunTime:0.0012s ]
+SQL: SELECT * FROM `tc_greatest` LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] filemtime(): stat failed for F:/wamp/www/XXXX/TC/Runtime/Cache\9119a03a6a1988ee56f664eb8a539911d67fa036.file.show.html.php F:\wamp\www\XXXX\ThinkPHP\Library\Vendor\Smarty\sysplugins\smarty_resource.php 第 683 行.
+NOTIC: [2] unlink(F:/wamp/www/XXXX/TC/Runtime/Cache\9119a03a6a1988ee56f664eb8a539911d67fa036.file.show.html.php): No such file or directory F:\wamp\www\XXXX\ThinkPHP\Library\Vendor\Smarty\sysplugins\smarty_internal_write_file.php 第 49 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.217020s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.217251s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000621s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000743s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001297s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002385s ]
+
+[ 2017-04-23T20:00:01+08:00 ] ::1 /XXXX/TC/index.php/Inform/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000616s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0699s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031340s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031969s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001027s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001456s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001548s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002050s ]
+
+[ 2017-04-23T20:00:01+08:00 ] ::1 /XXXX/TC/index.php/Inform/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001010s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000703s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000874s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000759s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000957s ]
+
+[ 2017-04-23T20:00:08+08:00 ] ::1 /XXXX/TC/index.php/Inform/userlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000753s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000955s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0650s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] filemtime(): stat failed for F:/wamp/www/XXXX/TC/Runtime/Cache\d29d28b5039052681d7bbfd2aaa54b79b86be4d0.file.userlist.html.php F:\wamp\www\XXXX\ThinkPHP\Library\Vendor\Smarty\sysplugins\smarty_resource.php 第 683 行.
+NOTIC: [2] unlink(F:/wamp/www/XXXX/TC/Runtime/Cache\d29d28b5039052681d7bbfd2aaa54b79b86be4d0.file.userlist.html.php): No such file or directory F:\wamp\www\XXXX\ThinkPHP\Library\Vendor\Smarty\sysplugins\smarty_internal_write_file.php 第 49 行.
+NOTIC: [8] Undefined index: list F:\wamp\www\XXXX\TC\Runtime\Cache\d29d28b5039052681d7bbfd2aaa54b79b86be4d0.file.userlist.html.php 第 138 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\d29d28b5039052681d7bbfd2aaa54b79b86be4d0.file.userlist.html.php 第 138 行.
+NOTIC: [8] Undefined index: page F:\wamp\www\XXXX\TC\Runtime\Cache\d29d28b5039052681d7bbfd2aaa54b79b86be4d0.file.userlist.html.php 第 175 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\d29d28b5039052681d7bbfd2aaa54b79b86be4d0.file.userlist.html.php 第 175 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.255856s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.256120s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000888s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001062s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000535s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000650s ]
+
+[ 2017-04-23T20:00:10+08:00 ] ::1 /XXXX/TC/index.php/Inform/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000617s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000780s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0133s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010418s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010549s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000482s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000589s ]
+
+[ 2017-04-23T20:00:10+08:00 ] ::1 /XXXX/TC/index.php/Inform/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000682s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000772s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001014s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001617s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001888s ]
+
+[ 2017-04-23T20:02:24+08:00 ] ::1 /XXXX/TC/index.php/Inform/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000791s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000945s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001218s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0385s ]
+SQL: SELECT * FROM `tc_greatest` WHERE ( username='147' ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011562s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011708s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000497s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000609s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000574s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000681s ]
+
+[ 2017-04-23T20:02:24+08:00 ] ::1 /XXXX/TC/index.php/Inform/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001771s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002167s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000943s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001128s ]
+
+[ 2017-04-23T20:02:27+08:00 ] ::1 /XXXX/TC/index.php/Inform/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000548s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000665s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0125s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009956s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010095s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000454s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000527s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000632s ]
+
+[ 2017-04-23T20:02:27+08:00 ] ::1 /XXXX/TC/index.php/Inform/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000777s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001317s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001184s ]
+
+[ 2017-04-23T20:03:57+08:00 ] ::1 /XXXX/TC/index.php/Inform/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002693s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.1255s ]
+SQL: SELECT * FROM `tc_greatest` WHERE ( username='456' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `tc_greatest` WHERE `username` = '456' LIMIT 1   [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028198s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028494s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000378s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000742s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000893s ]
+
+[ 2017-04-23T20:03:57+08:00 ] ::1 /XXXX/TC/index.php/Inform/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000788s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000682s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000822s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002828s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003668s ]
+
+[ 2017-04-23T20:04:01+08:00 ] ::1 /XXXX/TC/index.php/Inform/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000993s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001229s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0145s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014690s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014868s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000503s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000587s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000732s ]
+
+[ 2017-04-23T20:04:01+08:00 ] ::1 /XXXX/TC/index.php/Inform/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001238s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001397s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001713s ]
+
+[ 2017-04-23T20:04:24+08:00 ] ::1 /XXXX/TC/index.php/Inform/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000776s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0573s ]
+SQL: SELECT * FROM `tc_greatest` WHERE ( username='456' ) LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `tc_greatest` WHERE `username` = '456' LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025612s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025903s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000892s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001413s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000685s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000815s ]
+
+[ 2017-04-23T20:04:24+08:00 ] ::1 /XXXX/TC/index.php/Inform/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000852s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000936s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000956s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001219s ]
+
+[ 2017-04-23T20:04:26+08:00 ] ::1 /XXXX/TC/index.php/Inform/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000710s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+NOTIC: [8] Undefined index: drop F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 62 行.
+NOTIC: [8] Undefined index: submit F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 65 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012281s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012402s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000300s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000399s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000535s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000639s ]
+
+[ 2017-04-23T20:04:35+08:00 ] ::1 /XXXX/TC/index.php/Inform/share
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000923s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] filemtime(): stat failed for F:/wamp/www/XXXX/TC/Runtime/Cache\8ba59ce5dc6518fd53ae3ad608cbf631bc849748.file.share.html.php F:\wamp\www\XXXX\ThinkPHP\Library\Vendor\Smarty\sysplugins\smarty_resource.php 第 683 行.
+NOTIC: [2] unlink(F:/wamp/www/XXXX/TC/Runtime/Cache\8ba59ce5dc6518fd53ae3ad608cbf631bc849748.file.share.html.php): No such file or directory F:\wamp\www\XXXX\ThinkPHP\Library\Vendor\Smarty\sysplugins\smarty_internal_write_file.php 第 49 行.
+NOTIC: [8] Use of undefined constant Bbs_share_editor - assumed 'Bbs_share_editor' F:\wamp\www\XXXX\TC\Runtime\Cache\8ba59ce5dc6518fd53ae3ad608cbf631bc849748.file.share.html.php 第 27 行.
+NOTIC: [8] Use of undefined constant Bbs_share_editor - assumed 'Bbs_share_editor' F:\wamp\www\XXXX\TC\Runtime\Cache\8ba59ce5dc6518fd53ae3ad608cbf631bc849748.file.share.html.php 第 29 行.
+NOTIC: [8] Use of undefined constant Bbs_css - assumed 'Bbs_css' F:\wamp\www\XXXX\TC\Runtime\Cache\8ba59ce5dc6518fd53ae3ad608cbf631bc849748.file.share.html.php 第 32 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.115509s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.115735s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000574s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000694s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000805s ]
+
+[ 2017-04-23T20:04:35+08:00 ] ::1 /XXXX/TC/index.php/Inform/Bbs_share_editor/editor/kindeditor.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000809s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000834s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001060s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+ERR: 非法操作:Bbs_share_editor
+
+[ 2017-04-23T20:04:35+08:00 ] ::1 /XXXX/TC/index.php/Inform/Bbs_css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000758s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+ERR: 非法操作:Bbs_css
+
+[ 2017-04-23T20:04:35+08:00 ] ::1 /XXXX/TC/index.php/Inform/Bbs_share_editor/editor/lang/zh_CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000761s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000842s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001073s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+ERR: 非法操作:Bbs_share_editor
+
+[ 2017-04-23T20:04:35+08:00 ] ::1 /XXXX/TC/index.php/Inform/Bbs_css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000650s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+ERR: 非法操作:Bbs_css
+
+[ 2017-04-23T20:04:35+08:00 ] ::1 /XXXX/TC/index.php/Inform/detail.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000740s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+INFO: [ view_parse ] --START--
+NOTIC: [2] filemtime(): stat failed for F:/wamp/www/XXXX/TC/Runtime/Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php F:\wamp\www\XXXX\ThinkPHP\Library\Vendor\Smarty\sysplugins\smarty_resource.php 第 683 行.
+NOTIC: [2] unlink(F:/wamp/www/XXXX/TC/Runtime/Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php): No such file or directory F:\wamp\www\XXXX\ThinkPHP\Library\Vendor\Smarty\sysplugins\smarty_internal_write_file.php 第 49 行.
+NOTIC: [8] Use of undefined constant Bbs_css - assumed 'Bbs_css' F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 38 行.
+NOTIC: [8] Use of undefined constant Bbs_editor - assumed 'Bbs_editor' F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 40 行.
+NOTIC: [8] Use of undefined constant Bbs_editor - assumed 'Bbs_editor' F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 42 行.
+NOTIC: [8] Use of undefined constant Bbs_editor - assumed 'Bbs_editor' F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 44 行.
+NOTIC: [8] Undefined index: name F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Undefined index: info F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 105 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 105 行.
+NOTIC: [8] Undefined index: pagelist F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.343729s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.343854s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000516s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000650s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000625s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000733s ]
+
+[ 2017-04-23T20:04:35+08:00 ] ::1 /XXXX/TC/index.php/Inform/Bbs_editor/kindeditor-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000954s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+ERR: 非法操作:Bbs_editor
+
+[ 2017-04-23T20:04:35+08:00 ] ::1 /XXXX/TC/index.php/Inform/Bbs_css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000845s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001092s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+ERR: 非法操作:Bbs_css
+
+[ 2017-04-23T20:04:35+08:00 ] ::1 /XXXX/TC/index.php/Inform/Bbs_editor/themes/default/default.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001304s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+ERR: 非法操作:Bbs_editor
+
+[ 2017-04-23T20:04:35+08:00 ] ::1 /XXXX/TC/index.php/Inform/Bbs_editor/lang/zh_CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000791s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001293s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+ERR: 非法操作:Bbs_editor
+
+[ 2017-04-23T20:08:14+08:00 ] ::1 /XXXX/TC/index.php/Inform/detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000972s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000757s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000921s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Bbs_css - assumed 'Bbs_css' F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 38 行.
+NOTIC: [8] Use of undefined constant Bbs_editor - assumed 'Bbs_editor' F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 40 行.
+NOTIC: [8] Use of undefined constant Bbs_editor - assumed 'Bbs_editor' F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 42 行.
+NOTIC: [8] Use of undefined constant Bbs_editor - assumed 'Bbs_editor' F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 44 行.
+NOTIC: [8] Undefined index: name F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Undefined index: info F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 105 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 105 行.
+NOTIC: [8] Undefined index: pagelist F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023011s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023165s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000580s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000739s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000948s ]
+
+[ 2017-04-23T20:08:14+08:00 ] ::1 /XXXX/TC/index.php/Inform/Bbs_css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000690s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000720s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000966s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+ERR: 非法操作:Bbs_css
+
+[ 2017-04-23T20:08:14+08:00 ] ::1 /XXXX/TC/index.php/Inform/Bbs_editor/themes/default/default.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002847s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+ERR: 非法操作:Bbs_editor
+
+[ 2017-04-23T20:08:14+08:00 ] ::1 /XXXX/TC/index.php/Inform/Bbs_editor/lang/zh_CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000700s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001489s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+ERR: 非法操作:Bbs_editor
+
+[ 2017-04-23T20:08:14+08:00 ] ::1 /XXXX/TC/index.php/Inform/Bbs_editor/kindeditor-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001266s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+ERR: 非法操作:Bbs_editor
+
+[ 2017-04-23T20:08:14+08:00 ] ::1 /XXXX/TC/index.php/Inform/Bbs_editor/lang/zh_CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000751s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+ERR: 非法操作:Bbs_editor
+
+[ 2017-04-23T20:11:42+08:00 ] ::1 /XXXX/TC/index.php/Inform/share
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001435s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.016836s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017030s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Bbs_share_editor - assumed 'Bbs_share_editor' F:\wamp\www\XXXX\TC\Runtime\Cache\8ba59ce5dc6518fd53ae3ad608cbf631bc849748.file.share.html.php 第 27 行.
+NOTIC: [8] Use of undefined constant Bbs_share_editor - assumed 'Bbs_share_editor' F:\wamp\www\XXXX\TC\Runtime\Cache\8ba59ce5dc6518fd53ae3ad608cbf631bc849748.file.share.html.php 第 29 行.
+NOTIC: [8] Use of undefined constant Bbs_css - assumed 'Bbs_css' F:\wamp\www\XXXX\TC\Runtime\Cache\8ba59ce5dc6518fd53ae3ad608cbf631bc849748.file.share.html.php 第 32 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.350766s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.350901s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.017966s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018079s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001573s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001704s ]
+
+[ 2017-04-23T20:11:42+08:00 ] ::1 /XXXX/TC/index.php/Inform/Bbs_share_editor/editor/kindeditor.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000779s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000849s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001106s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+ERR: 非法操作:Bbs_share_editor
+
+[ 2017-04-23T20:11:42+08:00 ] ::1 /XXXX/TC/index.php/Inform/Bbs_share_editor/editor/lang/zh_CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006087s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+ERR: 非法操作:Bbs_share_editor
+
+[ 2017-04-23T20:11:42+08:00 ] ::1 /XXXX/TC/index.php/Inform/Bbs_css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001480s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000947s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001206s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+ERR: 非法操作:Bbs_css
+
+[ 2017-04-23T20:11:43+08:00 ] ::1 /XXXX/TC/index.php/Inform/detail.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000548s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000838s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Bbs_css - assumed 'Bbs_css' F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 38 行.
+NOTIC: [8] Use of undefined constant Bbs_editor - assumed 'Bbs_editor' F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 40 行.
+NOTIC: [8] Use of undefined constant Bbs_editor - assumed 'Bbs_editor' F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 42 行.
+NOTIC: [8] Use of undefined constant Bbs_editor - assumed 'Bbs_editor' F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 44 行.
+NOTIC: [8] Undefined index: name F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Undefined index: info F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 105 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 105 行.
+NOTIC: [8] Undefined index: pagelist F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009478s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009605s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000522s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000936s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001119s ]
+
+[ 2017-04-23T20:11:43+08:00 ] ::1 /XXXX/TC/index.php/Inform/Bbs_css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000675s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000914s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+ERR: 非法操作:Bbs_css
+
+[ 2017-04-23T20:11:43+08:00 ] ::1 /XXXX/TC/index.php/Inform/Bbs_editor/themes/default/default.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000701s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000929s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+ERR: 非法操作:Bbs_editor
+
+[ 2017-04-23T20:11:43+08:00 ] ::1 /XXXX/TC/index.php/Inform/Bbs_editor/kindeditor-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000660s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000701s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000941s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+ERR: 非法操作:Bbs_editor
+
+[ 2017-04-23T20:11:43+08:00 ] ::1 /XXXX/TC/index.php/Inform/Bbs_editor/lang/zh_CN.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000911s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001137s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+ERR: 非法操作:Bbs_editor
+
+[ 2017-04-23T20:15:44+08:00 ] ::1 /XXXX/TC/index.php/Inform/share
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000823s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010863s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011019s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000558s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000572s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000732s ]
+
+[ 2017-04-23T20:15:44+08:00 ] ::1 /XXXX/TC/index.php/Inform/detail.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000638s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: name F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Undefined index: info F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 105 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 105 行.
+NOTIC: [8] Undefined index: pagelist F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008518s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008626s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000309s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000524s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000625s ]
+
+[ 2017-04-23T20:16:01+08:00 ] ::1 /XXXX/TC/index.php/Inform/detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000636s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: name F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Undefined index: info F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 105 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 105 行.
+NOTIC: [8] Undefined index: pagelist F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009542s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009656s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000463s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000545s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000655s ]
+
+[ 2017-04-23T20:21:05+08:00 ] ::1 /XXXX/TC/index.php/Inform/detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000535s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000656s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tc_bbs` [ RunTime:0.1219s ]
+SQL: SELECT * FROM `tc_bbs` ORDER BY id DESC  [ RunTime:0.0008s ]
+NOTIC: [2048] Only variables should be passed by reference F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 222 行.
+SQL: SHOW COLUMNS FROM `tc_bbscof` [ RunTime:0.0629s ]
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 0 ORDER BY id DESC  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined index: conf F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 257 行.
+NOTIC: [8] Undefined index: title F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 258 行.
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 36 ORDER BY id DESC  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: conf F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 257 行.
+NOTIC: [8] Undefined index: title F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 258 行.
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 37 ORDER BY id DESC  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: name F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: pagelist F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025397s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000624s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001261s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001590s ]
+
+[ 2017-04-23T20:21:11+08:00 ] ::1 /XXXX/TC/index.php/Inform/share
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000813s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000842s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013536s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013715s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000476s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000614s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000766s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000914s ]
+
+[ 2017-04-23T20:21:11+08:00 ] ::1 /XXXX/TC/index.php/Inform/detail.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000902s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001129s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tc_bbs` [ RunTime:0.0381s ]
+SQL: SELECT * FROM `tc_bbs` ORDER BY id DESC  [ RunTime:0.0010s ]
+NOTIC: [2048] Only variables should be passed by reference F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 222 行.
+SQL: SHOW COLUMNS FROM `tc_bbscof` [ RunTime:0.0138s ]
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 0 ORDER BY id DESC  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: conf F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 257 行.
+NOTIC: [8] Undefined index: title F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 258 行.
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 36 ORDER BY id DESC  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: conf F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 257 行.
+NOTIC: [8] Undefined index: title F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 258 行.
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 37 ORDER BY id DESC  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: name F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: pagelist F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015888s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000333s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001018s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001304s ]
+
+[ 2017-04-23T20:23:12+08:00 ] ::1 /XXXX/TC/index.php/Inform/detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000637s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001634s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001885s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tc_bbs` [ RunTime:0.0573s ]
+SQL: SELECT * FROM `tc_bbs` ORDER BY id DESC  [ RunTime:0.0005s ]
+NOTIC: [2048] Only variables should be passed by reference F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 222 行.
+SQL: SHOW COLUMNS FROM `tc_bbscof` [ RunTime:0.0109s ]
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 0 ORDER BY id DESC  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: conf F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 257 行.
+NOTIC: [8] Undefined index: title F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 258 行.
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 36 ORDER BY id DESC  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: conf F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 257 行.
+NOTIC: [8] Undefined index: title F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 258 行.
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 37 ORDER BY id DESC  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: name F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: pagelist F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015889s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016043s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000653s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000765s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000918s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001104s ]
+
+[ 2017-04-23T20:23:17+08:00 ] ::1 /XXXX/TC/index.php/Inform/share
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000879s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000793s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017435s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017584s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000462s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000563s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000702s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000808s ]
+
+[ 2017-04-23T20:23:17+08:00 ] ::1 /XXXX/TC/index.php/Inform/detail.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001483s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001418s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tc_bbs` [ RunTime:0.0253s ]
+SQL: SELECT * FROM `tc_bbs` ORDER BY id DESC  [ RunTime:0.0016s ]
+NOTIC: [2048] Only variables should be passed by reference F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 222 行.
+SQL: SHOW COLUMNS FROM `tc_bbscof` [ RunTime:0.0131s ]
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 0 ORDER BY id DESC  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: conf F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 257 行.
+NOTIC: [8] Undefined index: title F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 258 行.
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 36 ORDER BY id DESC  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: conf F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 257 行.
+NOTIC: [8] Undefined index: title F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 258 行.
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 37 ORDER BY id DESC  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: name F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: pagelist F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018029s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018158s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000618s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001530s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001780s ]
+
+[ 2017-04-23T20:24:17+08:00 ] ::1 /XXXX/TC/index.php/Inform/detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000663s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000779s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tc_bbs` [ RunTime:0.0134s ]
+SQL: SELECT * FROM `tc_bbs` ORDER BY id DESC  [ RunTime:0.0003s ]
+NOTIC: [2048] Only variables should be passed by reference F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 222 行.
+SQL: SHOW COLUMNS FROM `tc_bbscof` [ RunTime:0.0118s ]
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 0 ORDER BY id DESC  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: conf F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 257 行.
+NOTIC: [8] Undefined index: title F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 258 行.
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 36 ORDER BY id DESC  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: conf F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 257 行.
+NOTIC: [8] Undefined index: title F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 258 行.
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 37 ORDER BY id DESC  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: name F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: pagelist F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013727s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013844s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000459s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000561s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001289s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001545s ]
+
+[ 2017-04-23T20:24:35+08:00 ] ::1 /XXXX/TC/index.php/Inform/detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000714s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000837s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tc_bbs` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `tc_bbs` ORDER BY id DESC  [ RunTime:0.0004s ]
+NOTIC: [2048] Only variables should be passed by reference F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 222 行.
+SQL: SHOW COLUMNS FROM `tc_bbscof` [ RunTime:0.0144s ]
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 0 ORDER BY id DESC  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: conf F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 257 行.
+NOTIC: [8] Undefined index: title F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 258 行.
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 36 ORDER BY id DESC  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: conf F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 257 行.
+NOTIC: [8] Undefined index: title F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 258 行.
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 37 ORDER BY id DESC  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: name F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: pagelist F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014505s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014657s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000588s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000696s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000966s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001112s ]
+
+[ 2017-04-23T20:27:35+08:00 ] ::1 /XXXX/TC/index.php/Inform/detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002189s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tc_bbs` [ RunTime:0.0115s ]
+SQL: SELECT * FROM `tc_bbs` ORDER BY id DESC  [ RunTime:0.0003s ]
+NOTIC: [2048] Only variables should be passed by reference F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 222 行.
+SQL: SHOW COLUMNS FROM `tc_bbscof` [ RunTime:0.0083s ]
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 0 ORDER BY id DESC  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: name F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Undefined index: pagelist F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012885s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013057s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000586s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000702s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000811s ]
+
+[ 2017-04-23T20:27:39+08:00 ] ::1 /XXXX/TC/index.php/Inform/share
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001275s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000848s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015734s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015857s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000581s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001123s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001386s ]
+
+[ 2017-04-23T20:27:39+08:00 ] ::1 /XXXX/TC/index.php/Inform/detail.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001824s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002067s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tc_bbs` [ RunTime:0.0265s ]
+SQL: SELECT * FROM `tc_bbs` ORDER BY id DESC  [ RunTime:0.0003s ]
+NOTIC: [2048] Only variables should be passed by reference F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 222 行.
+SQL: SHOW COLUMNS FROM `tc_bbscof` [ RunTime:0.1836s ]
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 0 ORDER BY id DESC  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: name F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Undefined index: pagelist F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025051s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025279s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000942s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001220s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001432s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001636s ]
+
+[ 2017-04-23T20:27:41+08:00 ] ::1 /XXXX/TC/index.php/Inform/share
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000856s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000707s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000846s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017866s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017997s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000456s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000556s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000663s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000769s ]
+
+[ 2017-04-23T20:27:41+08:00 ] ::1 /XXXX/TC/index.php/Inform/detail.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000924s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001266s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tc_bbs` [ RunTime:0.0234s ]
+SQL: SELECT * FROM `tc_bbs` ORDER BY id DESC  [ RunTime:0.0005s ]
+NOTIC: [2048] Only variables should be passed by reference F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 222 行.
+SQL: SHOW COLUMNS FROM `tc_bbscof` [ RunTime:0.0212s ]
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 0 ORDER BY id DESC  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: name F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Undefined index: pagelist F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014821s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015033s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000979s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001190s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001293s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001519s ]
+
+[ 2017-04-23T20:28:22+08:00 ] ::1 /XXXX/TC/index.php/Inform/share
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002680s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003081s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+NOTIC: [8] Use of undefined constant login - assumed 'login' F:\wamp\www\XXXX\TC\Home\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant html - assumed 'html' F:\wamp\www\XXXX\TC\Home\Controller\CommonController.class.php 第 48 行.
+
+[ 2017-04-23T20:30:51+08:00 ] ::1 /XXXX/TC/index.php/Inform/share
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000769s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000909s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+NOTIC: [8] Use of undefined constant login - assumed 'login' F:\wamp\www\XXXX\TC\Home\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant html - assumed 'html' F:\wamp\www\XXXX\TC\Home\Controller\CommonController.class.php 第 48 行.
+
+[ 2017-04-23T20:30:52+08:00 ] ::1 /XXXX/TC/index.php/Inform/share
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000921s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000841s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012396s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012516s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000445s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000546s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000663s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000768s ]
+
+[ 2017-04-23T20:30:54+08:00 ] ::1 /XXXX/TC/index.php/Inform/share
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000659s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000773s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+NOTIC: [8] Use of undefined constant login - assumed 'login' F:\wamp\www\XXXX\TC\Home\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant html - assumed 'html' F:\wamp\www\XXXX\TC\Home\Controller\CommonController.class.php 第 48 行.
+
+[ 2017-04-23T20:35:16+08:00 ] ::1 /XXXX/TC/index.php/Inform/share
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.013697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013840s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+NOTIC: [8] Use of undefined constant login - assumed 'login' F:\wamp\www\XXXX\TC\Home\Controller\CommonController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant html - assumed 'html' F:\wamp\www\XXXX\TC\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `tc_bbs` [ RunTime:0.0118s ]
+ERR: 1048:Column 'name' cannot be null
+ [ SQL语句 ] : INSERT INTO `tc_bbs` (`pid`,`name`,`grade`,`tc_group`,`conf`,`title`,`content`,`date`) VALUES ('0',NULL,NULL,NULL,'on','这是发表的第一个帖子','内容就是很随便啦，怎么样都行的。是吧。哈哈哈哈哈哈
+						                ','1492950916')
+ERR: 1048:Column 'name' cannot be null
+ [ SQL语句 ] : INSERT INTO `tc_bbs` (`pid`,`name`,`grade`,`tc_group`,`conf`,`title`,`content`,`date`) VALUES ('0',NULL,NULL,NULL,'on','这是发表的第一个帖子','内容就是很随便啦，怎么样都行的。是吧。哈哈哈哈哈哈
+						                ','1492950916')
+
+[ 2017-04-23T20:35:18+08:00 ] ::1 /XXXX/TC/index.php/Inform/loginhtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000994s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000541s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+ERR: 非法操作:loginhtml
+
+[ 2017-04-23T20:36:39+08:00 ] ::1 /XXXX/TC/index.php/Inform/share
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000607s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000746s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.276127s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.276280s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.013857s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013995s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008560s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008687s ]
+
+[ 2017-04-23T20:36:41+08:00 ] ::1 /XXXX/TC/index.php/Inform/share
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000627s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+NOTIC: [8] Use of undefined constant login - assumed 'login' F:\wamp\www\XXXX\TC\Home\Controller\CommonController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `tc_bbs` [ RunTime:0.0167s ]
+ERR: 1048:Column 'name' cannot be null
+ [ SQL语句 ] : INSERT INTO `tc_bbs` (`pid`,`name`,`grade`,`tc_group`,`conf`,`title`,`content`,`date`) VALUES ('0',NULL,NULL,NULL,'on','这是发表的第一个帖子','内容就是很随便啦，怎么样都行的。是吧。哈哈哈哈哈哈
+						                ','1492951001')
+ERR: 1048:Column 'name' cannot be null
+ [ SQL语句 ] : INSERT INTO `tc_bbs` (`pid`,`name`,`grade`,`tc_group`,`conf`,`title`,`content`,`date`) VALUES ('0',NULL,NULL,NULL,'on','这是发表的第一个帖子','内容就是很随便啦，怎么样都行的。是吧。哈哈哈哈哈哈
+						                ','1492951001')
+
+[ 2017-04-23T20:36:43+08:00 ] ::1 /XXXX/TC/index.php/Inform/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000619s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.1003s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.102488s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.102742s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000491s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000599s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000745s ]
+
+[ 2017-04-23T20:36:43+08:00 ] ::1 /XXXX/TC/index.php/Inform/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000767s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000907s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001149s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000785s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001032s ]
+
+[ 2017-04-23T20:37:05+08:00 ] ::1 /XXXX/TC/index.php/Inform/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000716s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001492s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0668s ]
+SQL: SELECT * FROM `tc_greatest` WHERE ( username='456' ) LIMIT 1   [ RunTime:0.0007s ]
+ERR: Think\Model:checkNamePwd方法不存在！
+
+[ 2017-04-23T20:41:45+08:00 ] ::1 /XXXX/TC/index.php/Inform/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000868s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0118s ]
+SQL: SELECT * FROM `tc_greatest` WHERE ( username='456' ) LIMIT 1   [ RunTime:0.0011s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013105s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013283s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001531s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001711s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000782s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000895s ]
+
+[ 2017-04-23T20:41:45+08:00 ] ::1 /XXXX/TC/index.php/Inform/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001006s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001244s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001236s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001466s ]
+
+[ 2017-04-23T20:41:47+08:00 ] ::1 /XXXX/TC/index.php/Inform/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000761s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0131s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009906s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010042s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000579s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000679s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000803s ]
+
+[ 2017-04-23T20:41:47+08:00 ] ::1 /XXXX/TC/index.php/Inform/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001530s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001972s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002296s ]
+
+[ 2017-04-23T20:42:05+08:00 ] ::1 /XXXX/TC/index.php/Inform/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000607s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000755s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0781s ]
+SQL: SELECT * FROM `tc_greatest` WHERE ( username='456' ) LIMIT 1   [ RunTime:0.0011s ]
+SQL: SELECT * FROM `tc_greatest` WHERE `username` = '456' LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022252s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022628s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000893s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001186s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001194s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001387s ]
+
+[ 2017-04-23T20:42:05+08:00 ] ::1 /XXXX/TC/index.php/Inform/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000490s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001437s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001678s ]
+
+[ 2017-04-23T20:42:06+08:00 ] ::1 /XXXX/TC/index.php/Inform/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000748s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+NOTIC: [8] Undefined index: drop F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 62 行.
+NOTIC: [8] Undefined index: submit F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 65 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.066864s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.067309s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000442s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000544s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000540s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000646s ]
+
+[ 2017-04-23T20:42:13+08:00 ] ::1 /XXXX/TC/index.php/Inform/share
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000536s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009876s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009995s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000500s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000559s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000662s ]
+
+[ 2017-04-23T20:42:13+08:00 ] ::1 /XXXX/TC/index.php/Inform/detail.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000869s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001107s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tc_bbs` [ RunTime:0.0196s ]
+SQL: SELECT * FROM `tc_bbs` ORDER BY id DESC  [ RunTime:0.0006s ]
+NOTIC: [2048] Only variables should be passed by reference F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 222 行.
+SQL: SHOW COLUMNS FROM `tc_bbscof` [ RunTime:0.0091s ]
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 0 ORDER BY id DESC  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: name F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Undefined index: pagelist F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010419s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010545s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000447s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000511s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000625s ]
+
+[ 2017-04-23T20:42:57+08:00 ] ::1 /XXXX/TC/index.php/Inform/share
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000566s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000717s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0523s ]
+SQL: SELECT * FROM `tc_greatest` WHERE `id` = '5' LIMIT 1   [ RunTime:0.1120s ]
+SQL: SHOW COLUMNS FROM `tc_bbs` [ RunTime:0.0206s ]
+SQL: INSERT INTO `tc_bbs` (`pid`,`name`,`grade`,`tc_group`,`conf`,`title`,`content`,`date`) VALUES ('0','桂荣珍','2015级','项目组','on','这是发表的第一个帖子','这个就是内容了，怎么办啊，怎么版不着调的说些什么东西的话呢				                ','1492951376') [ RunTime:0.0814s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027268s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027634s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000953s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001287s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001879s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002396s ]
+
+[ 2017-04-23T20:42:58+08:00 ] ::1 /XXXX/TC/index.php/Inform/share
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000785s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000926s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011188s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011320s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000456s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000578s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000754s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000892s ]
+
+[ 2017-04-23T20:43:03+08:00 ] ::1 /XXXX/TC/index.php/Inform/share
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000799s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000930s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013595s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013713s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000454s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000569s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000679s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000785s ]
+
+[ 2017-04-23T20:43:03+08:00 ] ::1 /XXXX/TC/index.php/Inform/detail.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000958s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000763s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000962s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tc_bbs` [ RunTime:0.0141s ]
+SQL: SELECT * FROM `tc_bbs` ORDER BY id DESC  [ RunTime:0.0005s ]
+NOTIC: [2048] Only variables should be passed by reference F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 222 行.
+SQL: SHOW COLUMNS FROM `tc_bbscof` [ RunTime:0.0148s ]
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 0 ORDER BY id DESC  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: name F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: pagelist F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016138s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016268s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000595s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000723s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000579s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000693s ]
+
+[ 2017-04-23T20:43:21+08:00 ] ::1 /XXXX/TC/index.php/Inform/detail.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000674s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0135s ]
+SQL: SELECT * FROM `tc_greatest` WHERE `id` = '5' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `tc_bbscof` [ RunTime:0.0098s ]
+SQL: INSERT INTO `tc_bbscof` (`pid`,`uid`,`name`,`grade`,`tc_group`,`content`,`date`) VALUES ('0','1','桂荣珍','2015级','项目组','那这就是第一个评论的咯','1492951401') [ RunTime:0.0623s ]
+SQL: SHOW COLUMNS FROM `tc_bbs` [ RunTime:0.0204s ]
+SQL: SELECT * FROM `tc_bbs` ORDER BY id DESC  [ RunTime:0.0007s ]
+NOTIC: [2048] Only variables should be passed by reference F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 222 行.
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 0 ORDER BY id DESC  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: conf F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 257 行.
+NOTIC: [8] Undefined index: title F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 258 行.
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 1 ORDER BY id DESC  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: name F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: pagelist F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023483s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023744s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000472s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000648s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001141s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001401s ]
+
+[ 2017-04-23T20:43:39+08:00 ] ::1 /XXXX/TC/index.php/Inform/detail.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000614s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `tc_greatest` WHERE `id` = '5' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tc_bbscof` [ RunTime:0.0089s ]
+SQL: INSERT INTO `tc_bbscof` (`pid`,`uid`,`name`,`grade`,`tc_group`,`content`,`date`) VALUES ('1','1','桂荣珍','2015级','项目组','这就是i给第一评论的回复咯','1492951419') [ RunTime:0.1255s ]
+SQL: SHOW COLUMNS FROM `tc_bbs` [ RunTime:0.1206s ]
+SQL: SELECT * FROM `tc_bbs` ORDER BY id DESC  [ RunTime:0.0008s ]
+NOTIC: [2048] Only variables should be passed by reference F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 222 行.
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 0 ORDER BY id DESC  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined index: conf F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 257 行.
+NOTIC: [8] Undefined index: title F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 258 行.
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 1 ORDER BY id DESC  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined index: conf F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 257 行.
+NOTIC: [8] Undefined index: title F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 258 行.
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 2 ORDER BY id DESC  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: name F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: pagelist F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028754s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029094s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001011s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001370s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001768s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002120s ]
+
+[ 2017-04-23T20:44:19+08:00 ] ::1 /XXXX/TC/index.php/Inform/detail.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001373s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0139s ]
+SQL: SELECT * FROM `tc_greatest` WHERE `id` = '5' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tc_bbscof` [ RunTime:0.0096s ]
+SQL: INSERT INTO `tc_bbscof` (`pid`,`uid`,`name`,`grade`,`tc_group`,`content`,`date`) VALUES ('2','1','桂荣珍','2015级','项目组','&lt;span style=&quot;color:#333333;font-family:&amp;quot;font-size:14px;background-color:#EFFCFE;&quot;&gt;这就是i给第一评论的回复咯的回复咯&lt;/span&gt;','1492951458') [ RunTime:0.0881s ]
+SQL: SHOW COLUMNS FROM `tc_bbs` [ RunTime:0.0287s ]
+SQL: SELECT * FROM `tc_bbs` ORDER BY id DESC  [ RunTime:0.0007s ]
+NOTIC: [2048] Only variables should be passed by reference F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 222 行.
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 0 ORDER BY id DESC  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined index: conf F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 257 行.
+NOTIC: [8] Undefined index: title F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 258 行.
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 1 ORDER BY id DESC  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined index: conf F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 257 行.
+NOTIC: [8] Undefined index: title F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 258 行.
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 2 ORDER BY id DESC  [ RunTime:0.0009s ]
+NOTIC: [8] Undefined index: conf F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 257 行.
+NOTIC: [8] Undefined index: title F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 258 行.
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 3 ORDER BY id DESC  [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: name F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: pagelist F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028045s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028386s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000914s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001382s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003603s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004313s ]
+
+[ 2017-04-23T20:45:07+08:00 ] ::1 /XXXX/TC/index.php/Inform/detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001846s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001709s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tc_bbs` [ RunTime:0.0318s ]
+SQL: SELECT * FROM `tc_bbs` ORDER BY id DESC  [ RunTime:0.0003s ]
+NOTIC: [2048] Only variables should be passed by reference F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 222 行.
+SQL: SHOW COLUMNS FROM `tc_bbscof` [ RunTime:0.0077s ]
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 0 ORDER BY id DESC  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: conf F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 257 行.
+NOTIC: [8] Undefined index: title F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 258 行.
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 1 ORDER BY id DESC  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: conf F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 257 行.
+NOTIC: [8] Undefined index: title F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 258 行.
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 2 ORDER BY id DESC  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: conf F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 257 行.
+NOTIC: [8] Undefined index: title F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 258 行.
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 3 ORDER BY id DESC  [ RunTime:0.0012s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: name F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: pagelist F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015685s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015836s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002017s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002214s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001660s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001842s ]
+
+[ 2017-04-23T20:45:36+08:00 ] ::1 /XXXX/TC/index.php/Inform/detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001140s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tc_bbs` [ RunTime:0.0141s ]
+SQL: SELECT * FROM `tc_bbs` ORDER BY id DESC  [ RunTime:0.0003s ]
+NOTIC: [2048] Only variables should be passed by reference F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 222 行.
+SQL: SHOW COLUMNS FROM `tc_bbscof` [ RunTime:0.0092s ]
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 0 ORDER BY id DESC  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: conf F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 257 行.
+NOTIC: [8] Undefined index: title F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 258 行.
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 1 ORDER BY id DESC  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: conf F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 257 行.
+NOTIC: [8] Undefined index: title F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 258 行.
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 2 ORDER BY id DESC  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: conf F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 257 行.
+NOTIC: [8] Undefined index: title F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 258 行.
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 3 ORDER BY id DESC  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: name F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: pagelist F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011578s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011868s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000483s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000599s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001170s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001332s ]
+
+[ 2017-04-23T20:47:58+08:00 ] ::1 /XXXX/TC/index.php/Inform/detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001373s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001143s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001361s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tc_bbs` [ RunTime:0.1477s ]
+SQL: SELECT * FROM `tc_bbs` ORDER BY id DESC  [ RunTime:0.0006s ]
+NOTIC: [2048] Only variables should be passed by reference F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 222 行.
+SQL: SHOW COLUMNS FROM `tc_bbscof` [ RunTime:0.0124s ]
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 0 ORDER BY id DESC  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: conf F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 257 行.
+NOTIC: [8] Undefined index: title F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 258 行.
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 1 ORDER BY id DESC  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: conf F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 257 行.
+NOTIC: [8] Undefined index: title F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 258 行.
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 2 ORDER BY id DESC  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: conf F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 257 行.
+NOTIC: [8] Undefined index: title F:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 258 行.
+SQL: SELECT * FROM `tc_bbscof` WHERE `pid` = 3 ORDER BY id DESC  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: name F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 76 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 136 行.
+NOTIC: [8] Undefined index: bbs F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 151 行.
+NOTIC: [8] Undefined index: pagelist F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+NOTIC: [8] Trying to get property of non-object F:\wamp\www\XXXX\TC\Runtime\Cache\e494def4c7ee854529599e90774984e1dd4009d1.file.detail.html.php 第 216 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011419s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011545s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000502s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000607s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001736s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002034s ]
+

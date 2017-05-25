@@ -1,0 +1,2073 @@
+[ 2017-01-08T07:51:29+08:00 ] ::1 /XXXX/TC/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.079990s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.043536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.043821s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.786741s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.787022s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.036428s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.036565s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.041965s ]
+INFO: [ app_end ] --END-- [ RunTime:0.042135s ]
+
+[ 2017-01-08T07:51:34+08:00 ] ::1 /XXXX/TC/index.php/Project/project.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000536s ]
+NOTIC: [8] Undefined index: submit D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 14 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.293544s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.293723s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000290s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000422s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000624s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000831s ]
+
+[ 2017-01-08T07:52:02+08:00 ] ::1 /XXXX/TC/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000945s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000748s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014677s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014845s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000563s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000797s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002019s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002312s ]
+
+[ 2017-01-08T07:52:05+08:00 ] ::1 /XXXX/TC/index.php/Project/project.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001771s ]
+NOTIC: [8] Undefined index: submit D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 14 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018928s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019112s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001741s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001875s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002150s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002372s ]
+
+[ 2017-01-08T07:52:11+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce?im=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001124s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001260s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0808s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0004s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.350499s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.350729s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001082s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001206s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001690s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001875s ]
+
+[ 2017-01-08T09:31:04+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce?im=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.019348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011765s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0505s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0014s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.804376s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.804546s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.025738s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.025852s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.120602s ]
+INFO: [ app_end ] --END-- [ RunTime:0.120801s ]
+
+[ 2017-01-08T09:31:15+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce?im=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000711s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000769s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000999s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0131s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013309s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013461s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000410s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000524s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001129s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001448s ]
+
+[ 2017-01-08T09:31:32+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce?im=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000941s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001114s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0153s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0004s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013466s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013610s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000421s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000527s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001318s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001626s ]
+
+[ 2017-01-08T09:31:37+08:00 ] ::1 /XXXX/TC/index.php/Project/contact.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000640s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.100657s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.100822s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000584s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000699s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001261s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001503s ]
+
+[ 2017-01-08T09:33:09+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce?im=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000832s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001002s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0117s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:1.116127s ]
+INFO: [ view_parse ] --END-- [ RunTime:1.116259s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000570s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000684s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000893s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001089s ]
+
+[ 2017-01-08T09:33:10+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce?im=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001247s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000985s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001254s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0200s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0004s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022121s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022335s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000584s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000798s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000987s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001253s ]
+
+[ 2017-01-08T09:34:23+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce?im=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000631s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0649s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.551440s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.551655s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001349s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001619s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001223s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001496s ]
+
+[ 2017-01-08T09:34:50+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce?im=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000640s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000825s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000998s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0136s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011184s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011395s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000524s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001240s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001523s ]
+
+[ 2017-01-08T09:35:24+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce?im=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001183s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001521s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0232s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.501820s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.502025s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000912s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001139s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000945s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001197s ]
+
+[ 2017-01-08T09:40:30+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce?im=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008686s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.017347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017507s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0443s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:1.367011s ]
+INFO: [ view_parse ] --END-- [ RunTime:1.367214s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.042585s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.042740s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.018958s ]
+INFO: [ app_end ] --END-- [ RunTime:0.019191s ]
+
+[ 2017-01-08T09:40:30+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce?im=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000624s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000803s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000989s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0156s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0004s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011219s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011417s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000599s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000750s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001266s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001785s ]
+
+[ 2017-01-08T09:40:59+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce?im=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000643s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000851s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0355s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.466493s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.466635s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000497s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000601s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001652s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002070s ]
+
+[ 2017-01-08T09:41:04+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce?im=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001054s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000844s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001056s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0118s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0004s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011025s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011147s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000240s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000776s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000967s ]
+
+[ 2017-01-08T09:41:06+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce?im=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000968s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002992s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003388s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0162s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016394s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016520s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000228s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002013s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002535s ]
+
+[ 2017-01-08T09:41:35+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce?im=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000753s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.1258s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0005s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.589920s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.590158s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000833s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001028s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001046s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001759s ]
+
+[ 2017-01-08T09:44:22+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce?im=1&de=33
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001570s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001942s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0172s ]
+NOTIC: [8] Undefined index: f D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 120 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010214s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010387s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000432s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000538s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001174s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001499s ]
+
+[ 2017-01-08T09:48:40+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce?im=1&de=33
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014942s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.017043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017187s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0342s ]
+NOTIC: [8] Undefined index: f D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 120 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:1.206900s ]
+INFO: [ view_parse ] --END-- [ RunTime:1.207057s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.012365s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012505s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.022478s ]
+INFO: [ app_end ] --END-- [ RunTime:0.022700s ]
+
+[ 2017-01-08T09:48:40+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce?im=1&de=33
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000979s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000986s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001229s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0454s ]
+NOTIC: [8] Undefined index: f D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 120 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0002s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013245s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013439s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000438s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000549s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001160s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001426s ]
+
+[ 2017-01-08T09:50:33+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce?im=1&de=33
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001380s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000832s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001003s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0137s ]
+NOTIC: [8] Undefined index: f D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 120 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.453953s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.454080s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000553s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000674s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003810s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004795s ]
+
+[ 2017-01-08T09:50:42+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce?im=1&de=33
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000678s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000862s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0145s ]
+NOTIC: [8] Undefined index: f D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 120 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013408s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013630s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000333s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000474s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001266s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001608s ]
+
+[ 2017-01-08T09:51:56+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce?im=1&de=33
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000588s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0138s ]
+NOTIC: [8] Undefined index: f D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 120 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.396736s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.396915s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000673s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000821s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001682s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002033s ]
+
+[ 2017-01-08T09:52:56+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce?im=1&de=33
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000804s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002450s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0597s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamps\wamp\www\XXXX\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x D:\wamps\wamp\www\XXXX\ThinkPHP\Library\Think\Image\Driver\Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y D:\wamps\wamp\www\XXXX\ThinkPHP\Library\Think\Image\Driver\Gd.class.php 第 270 行.
+NOTIC: [8] Use of undefined constant project - assumed 'project' D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 84 行.
+NOTIC: [8] Undefined index: f D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 120 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015893s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016017s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000905s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001011s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001610s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001760s ]
+
+[ 2017-01-08T09:52:59+08:00 ] ::1 /XXXX/TC/index.php/Project/project
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000799s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001606s ]
+NOTIC: [8] Undefined index: submit D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 14 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.143683s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.143867s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001019s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001143s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002229s ]
+
+[ 2017-01-08T09:53:11+08:00 ] ::1 /XXXX/TC/index.php/Project/project
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001136s ]
+SQL: SHOW COLUMNS FROM `tc_user` [ RunTime:0.0652s ]
+SQL: SELECT * FROM `tc_user` WHERE ( username='admin' ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012773s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012905s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000660s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000766s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001982s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002259s ]
+
+[ 2017-01-08T09:53:13+08:00 ] ::1 /XXXX/TC/index.php/Project/project.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001101s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001863s ]
+NOTIC: [8] Undefined index: submit D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 14 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013127s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013265s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000698s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000806s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002069s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002336s ]
+
+[ 2017-01-08T09:53:16+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce?im=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001144s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001309s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0253s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011216s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011354s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000692s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000810s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001243s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001428s ]
+
+[ 2017-01-08T09:53:38+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce?im=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000886s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001016s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0553s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamps\wamp\www\XXXX\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x D:\wamps\wamp\www\XXXX\ThinkPHP\Library\Think\Image\Driver\Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y D:\wamps\wamp\www\XXXX\ThinkPHP\Library\Think\Image\Driver\Gd.class.php 第 270 行.
+SQL: INSERT INTO `tc_image` (`img_name`,`user`,`path`,`src_image`,`small_image`) VALUES ('sdf','admin','pic1','Public/images/pic1/58719ba2224de.jpg','Public/images/pic1/small_58719ba2224de.jpg') [ RunTime:0.0548s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011842s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012012s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001325s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001536s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001554s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001788s ]
+
+[ 2017-01-08T09:53:40+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce.html?im=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000857s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000980s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0127s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012149s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012271s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000674s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000789s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001551s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001747s ]
+
+[ 2017-01-08T09:54:37+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce.html?im=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000901s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001026s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0120s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.399638s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.399806s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000609s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000712s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005338s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005612s ]
+
+[ 2017-01-08T09:54:45+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce.html?im=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000611s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0377s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamps\wamp\www\XXXX\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x D:\wamps\wamp\www\XXXX\ThinkPHP\Library\Think\Image\Driver\Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y D:\wamps\wamp\www\XXXX\ThinkPHP\Library\Think\Image\Driver\Gd.class.php 第 270 行.
+SQL: INSERT INTO `tc_image` (`img_name`,`user`,`path`,`src_image`,`small_image`) VALUES ('gdf','admin','pic1','Public/images/pic1/58719be58e5b6.jpg','Public/images/pic1/small_58719be58e5b6.jpg') [ RunTime:0.3157s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011326s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011452s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000430s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000512s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000637s ]
+
+[ 2017-01-08T09:54:47+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce.html?im=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000700s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000556s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000670s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0148s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010083s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010221s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000477s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001069s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001340s ]
+
+[ 2017-01-08T09:54:56+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce.html?im=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000925s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0973s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamps\wamp\www\XXXX\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x D:\wamps\wamp\www\XXXX\ThinkPHP\Library\Think\Image\Driver\Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y D:\wamps\wamp\www\XXXX\ThinkPHP\Library\Think\Image\Driver\Gd.class.php 第 270 行.
+SQL: INSERT INTO `tc_image` (`img_name`,`user`,`path`,`src_image`,`small_image`) VALUES ('sadgd','admin','pic1','Public/images/pic1/58719bf070f1b.jpg','Public/images/pic1/small_58719bf070f1b.jpg') [ RunTime:0.0534s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009955s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010081s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000258s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000370s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000659s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000797s ]
+
+[ 2017-01-08T09:54:57+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce.html?im=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000526s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0136s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0002s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012592s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012721s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000640s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000824s ]
+
+[ 2017-01-08T09:55:23+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce.html?im=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000586s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0128s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamps\wamp\www\XXXX\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: x D:\wamps\wamp\www\XXXX\ThinkPHP\Library\Think\Image\Driver\Gd.class.php 第 270 行.
+NOTIC: [8] Undefined variable: y D:\wamps\wamp\www\XXXX\ThinkPHP\Library\Think\Image\Driver\Gd.class.php 第 270 行.
+SQL: INSERT INTO `tc_image` (`img_name`,`user`,`path`,`src_image`,`small_image`) VALUES ('sdfsdf','admin','pic1','Public/images/pic1/58719c0b00194.jpg','Public/images/pic1/small_58719c0b00194.jpg') [ RunTime:0.0458s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010598s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010760s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000252s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000400s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001129s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001454s ]
+
+[ 2017-01-08T09:55:24+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce.html?im=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000546s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000690s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0378s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010245s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010398s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000316s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000418s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001260s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001567s ]
+
+[ 2017-01-08T09:56:49+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce.html?im=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000566s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000696s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0512s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.497761s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.497891s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000663s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000788s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001301s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001590s ]
+
+[ 2017-01-08T09:57:09+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce.html?im=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001042s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0276s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.536057s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.536180s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000506s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000609s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001650s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001956s ]
+
+[ 2017-01-08T10:01:33+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce.html?im=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000766s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000931s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001152s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0166s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0005s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014920s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015139s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000646s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000875s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001159s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001474s ]
+
+[ 2017-01-08T10:01:41+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce.html?im=1&de=33
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000230s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001032s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000628s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0274s ]
+SQL: DELETE FROM `tc_image` WHERE ( id='33' ) [ RunTime:0.0634s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0005s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010476s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010624s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000532s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000653s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001055s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001334s ]
+
+[ 2017-01-08T10:01:42+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce.html?im=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000763s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001614s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003076s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0131s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011804s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011992s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000428s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000844s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001119s ]
+
+[ 2017-01-08T10:02:31+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce.html?im=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000535s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000677s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0249s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0004s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.403191s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.403330s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000566s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000677s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001135s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001411s ]
+
+[ 2017-01-08T10:03:04+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce.html?im=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000634s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000786s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0133s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.410064s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.410202s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000764s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000948s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001411s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001717s ]
+
+[ 2017-01-08T10:03:39+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce.html?im=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000785s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000951s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0122s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.385848s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.385985s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000539s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000649s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002759s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003053s ]
+
+[ 2017-01-08T10:03:50+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce.html?im=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001707s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001957s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0127s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010709s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010843s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000252s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000964s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001255s ]
+
+[ 2017-01-08T10:05:28+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce.html?im=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000633s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000770s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0824s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0005s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.500302s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.500490s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000624s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000750s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001410s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002258s ]
+
+[ 2017-01-08T10:07:11+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce.html?im=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001609s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0147s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.395129s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.395319s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000811s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000988s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001081s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001330s ]
+
+[ 2017-01-08T10:28:47+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000670s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001224s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0243s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0005s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 5,5 [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010384s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000483s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001095s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001358s ]
+
+[ 2017-01-08T10:28:50+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000655s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0146s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009914s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010078s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000379s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001148s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001394s ]
+
+[ 2017-01-08T10:34:39+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000922s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001107s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0616s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.414668s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.414965s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000572s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000683s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001454s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001765s ]
+
+[ 2017-01-08T10:35:16+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000605s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0264s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009851s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009961s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000376s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000909s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001185s ]
+
+[ 2017-01-08T10:35:37+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000855s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000807s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001063s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0171s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0004s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.447808s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.447975s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000692s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000815s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001693s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001970s ]
+
+[ 2017-01-08T10:35:53+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001261s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0135s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.405200s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.405327s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000574s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000760s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001770s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002176s ]
+
+[ 2017-01-08T10:46:39+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html&de=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.019890s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010546s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0125s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.855323s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.855447s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.021173s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.021305s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.019147s ]
+INFO: [ app_end ] --END-- [ RunTime:0.019612s ]
+
+[ 2017-01-08T10:59:09+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html&de=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000735s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001009s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0154s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0004s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.766057s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.766196s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000678s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000797s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001295s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001696s ]
+
+[ 2017-01-08T10:59:34+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html&de=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000633s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0269s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0004s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.413077s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.413256s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001215s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001447s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001048s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001921s ]
+
+[ 2017-01-08T10:59:48+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html&de=&de=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001972s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002177s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0962s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011317s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011445s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000537s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000714s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001166s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001424s ]
+
+[ 2017-01-08T11:00:57+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html&de=&de=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000403s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000513s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0597s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.396583s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.396751s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000685s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000823s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001905s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002208s ]
+
+[ 2017-01-08T11:01:02+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html&de=&de=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002249s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0652s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0004s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015437s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015549s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000244s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000756s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000932s ]
+
+[ 2017-01-08T11:01:10+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html&de=&de=&de=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000653s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0272s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0004s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009678s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009798s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000309s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000865s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001117s ]
+
+[ 2017-01-08T11:02:30+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html&de=&de=&de=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001463s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0162s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0004s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.396850s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.397082s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000651s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000779s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002006s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002250s ]
+
+[ 2017-01-08T11:02:35+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html&de=&de=&de=&de=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000592s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000752s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0269s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011315s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011432s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000243s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000718s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000908s ]
+
+[ 2017-01-08T11:26:58+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html&de=&de=&de=&de=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000745s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000779s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000946s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0139s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0004s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.379636s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.379767s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000532s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000636s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001115s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001543s ]
+
+[ 2017-01-08T11:32:41+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html&de=&de=&de=&de=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000971s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001091s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001369s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0288s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.441419s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.441550s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000542s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000684s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001162s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001437s ]
+
+[ 2017-01-08T11:33:08+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html&de=&de=&de=&de=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000842s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001023s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0165s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0004s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.452540s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.452730s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000527s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000631s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001798s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002187s ]
+
+[ 2017-01-08T11:33:26+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html&de=&de=&de=&de=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000812s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0130s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.428421s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.428546s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000632s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000775s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001088s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001344s ]
+
+[ 2017-01-08T11:33:58+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html&de=&de=&de=&de=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000659s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0324s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.387296s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.387410s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000702s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000828s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002592s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002928s ]
+
+[ 2017-01-08T11:34:15+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html&de=&de=&de=&de=&de=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000573s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000712s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0126s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011598s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011717s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000372s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001020s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001320s ]
+
+[ 2017-01-08T11:34:28+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html&de=&de=&de=&de=&de=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000726s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0143s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019615s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020008s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000612s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000829s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001005s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001426s ]
+
+[ 2017-01-08T11:34:37+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html&de=&de=&de=&de=&de=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000593s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0619s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011645s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011756s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000237s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001157s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001453s ]
+
+[ 2017-01-08T11:34:39+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html&de=&de=&de=&de=&de=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000456s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000568s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0174s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0025s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015557s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015857s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001453s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002341s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001284s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001557s ]
+
+[ 2017-01-08T11:35:38+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html&de=&de=&de=&de=&de=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000738s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0153s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.370178s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.370291s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000584s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000698s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001361s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001652s ]
+
+[ 2017-01-08T11:36:26+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html&de=&de=&de=&de=&de=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003177s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003448s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0760s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.464967s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.465102s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000537s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000645s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001669s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002018s ]
+
+[ 2017-01-08T11:36:34+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html&de=&de=&de=&de=&de=&de=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000637s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000588s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000767s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0158s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0004s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014315s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014442s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000377s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000901s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001157s ]
+
+[ 2017-01-08T12:10:52+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html&de=&de=&de=&de=&de=&de=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009075s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.072294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.072711s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0353s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0011s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:2.043462s ]
+INFO: [ view_parse ] --END-- [ RunTime:2.043597s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.033076s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.033210s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.027843s ]
+INFO: [ app_end ] --END-- [ RunTime:0.028057s ]
+
+[ 2017-01-08T12:10:52+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html&de=&de=&de=&de=&de=&de=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001145s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001489s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0298s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0008s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031998s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032372s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001460s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002025s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002224s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002822s ]
+
+[ 2017-01-08T12:10:52+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html&de=&de=&de=&de=&de=&de=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000645s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000786s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0085s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0004s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020423s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020642s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000653s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000858s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001791s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002240s ]
+
+[ 2017-01-08T12:20:03+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html&de=&de=&de=&de=&de=&de=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000666s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000822s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0174s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0004s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.490791s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.491067s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000989s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001180s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001722s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001997s ]
+
+[ 2017-01-08T12:20:07+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html&de=&de=&de=&de=&de=&de=&de=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000697s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000987s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001201s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0145s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0004s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013561s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013738s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000457s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001972s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002455s ]
+
+[ 2017-01-08T12:24:44+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html&de=&de=&de=&de=&de=&de=&de=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001481s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003896s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0847s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0009s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.647644s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.647891s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000678s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000795s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001457s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001787s ]
+
+[ 2017-01-08T12:24:50+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html&de=&de=&de=&de=&de=&de=&de=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000121s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001631s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002031s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0290s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0019s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015927s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016275s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000302s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000416s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000860s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001169s ]
+
+[ 2017-01-08T12:25:53+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html&de=&de=&de=&de=&de=&de=&de=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000882s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001544s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0230s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0005s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.554268s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.554574s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001104s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001379s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001512s ]
+
+[ 2017-01-08T12:25:59+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html&de=&de=&de=&de=&de=&de=&de=&de=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000816s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0143s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012208s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012355s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000573s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000982s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001268s ]
+
+[ 2017-01-08T12:27:03+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html&de=&de=&de=&de=&de=&de=&de=&de=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000766s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000930s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0147s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.570584s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.570744s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000725s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000875s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002504s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002829s ]
+
+[ 2017-01-08T12:27:10+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html&de=&de=&de=&de=&de=&de=&de=&de=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000860s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002496s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.1093s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0007s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038965s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039953s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000960s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001326s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002132s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002935s ]
+
+[ 2017-01-08T12:28:13+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html&de=&de=&de=&de=&de=&de=&de=&de=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000954s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001151s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001387s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0214s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0005s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.573033s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.573217s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000618s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000760s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001444s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002165s ]
+
+[ 2017-01-08T12:28:44+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html&de=&de=&de=&de=&de=&de=&de=&de=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000897s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001140s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0229s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0009s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.778673s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.778854s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002024s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002183s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001320s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001654s ]
+
+[ 2017-01-08T12:28:45+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html&de=&de=&de=&de=&de=&de=&de=&de=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001374s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0282s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013584s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013707s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000399s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000713s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000973s ]
+
+[ 2017-01-08T12:28:48+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html&de=&de=&de=&de=&de=&de=&de=&de=&de=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002095s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0168s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0005s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019164s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019348s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000597s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001667s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002468s ]
+
+[ 2017-01-08T12:35:03+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html&de=&de=&de=&de=&de=&de=&de=&de=&de=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000103s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001753s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002267s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0149s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0003s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.487100s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.487312s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000714s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000859s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001392s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001782s ]
+
+[ 2017-01-08T12:35:09+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce/im/1/p/1.html&de=&de=&de=&de=&de=&de=&de=&de=&de=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001580s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001493s ]
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0206s ]
+NOTIC: [8] Undefined index: de D:\wamps\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 117 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0004s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamps\wamp\www\XXXX\TC\Runtime\Cache\264740a394ad77165ebc0c141a078c7f339c5fb3.file.xiangce.html.php 第 197 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020412s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020650s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000430s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000594s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001089s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001377s ]
+

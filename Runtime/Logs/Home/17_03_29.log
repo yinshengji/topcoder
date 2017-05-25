@@ -1,0 +1,136 @@
+[ 2017-03-29T20:58:36+08:00 ] ::1 /XXXX/TC/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.018337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.016141s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017447s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.148481s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.149022s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.027281s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.027849s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.014750s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015313s ]
+
+[ 2017-03-29T20:58:49+08:00 ] ::1 /XXXX/TC/index.php/Project/about
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000103s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001544s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003053s ]
+NOTIC: [2048] Declaration of Home\Controller\ProjectController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 6 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.055569s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.056281s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001749s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002271s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002909s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003690s ]
+
+[ 2017-03-29T20:59:44+08:00 ] ::1 /XXXX/TC/index.php/Project/suanfa.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010253s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010825s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011395s ]
+NOTIC: [2048] Declaration of Home\Controller\ProjectController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 6 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.117048s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.117496s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.016291s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016862s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010906s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011646s ]
+
+[ 2017-03-29T20:59:58+08:00 ] ::1 /XXXX/TC/index.php/Project/single.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001628s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001834s ]
+NOTIC: [2048] Declaration of Home\Controller\ProjectController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 6 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049209s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049613s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005287s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006157s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004091s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004836s ]
+
+[ 2017-03-29T21:00:33+08:00 ] ::1 /XXXX/TC/index.php/Project/project.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001376s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001818s ]
+NOTIC: [2048] Declaration of Home\Controller\ProjectController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 6 行.
+NOTIC: [8] Undefined index: submit D:\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 55 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042012s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042696s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001313s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001757s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003560s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004183s ]
+
+[ 2017-03-29T21:00:44+08:00 ] ::1 /XXXX/TC/index.php/Project/xiangce?im=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001676s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001823s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002259s ]
+NOTIC: [2048] Declaration of Home\Controller\ProjectController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 6 行.
+SQL: SHOW COLUMNS FROM `tc_image` [ RunTime:0.0164s ]
+NOTIC: [8] Undefined index: de D:\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 74 行.
+NOTIC: [8] Undefined index: de D:\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 128 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `tc_image` LIMIT 1   [ RunTime:0.0013s ]
+SQL: select * from tc_image where path='pic1' order by id desc  limit 0,5 [ RunTime:0.0110s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamp\www\XXXX\TC\Runtime\Cache\5b4c58ca01b6ea6c447d0f258598036e1e429c48.file.xiangce.html.php 第 197 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\XXXX\TC\Runtime\Cache\5b4c58ca01b6ea6c447d0f258598036e1e429c48.file.xiangce.html.php 第 197 行.
+NOTIC: [2] Illegal string offset 'small_image' D:\wamp\www\XXXX\TC\Runtime\Cache\5b4c58ca01b6ea6c447d0f258598036e1e429c48.file.xiangce.html.php 第 252 行.
+NOTIC: [2] Illegal string offset 'src_image' D:\wamp\www\XXXX\TC\Runtime\Cache\5b4c58ca01b6ea6c447d0f258598036e1e429c48.file.xiangce.html.php 第 255 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.052352s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052876s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001899s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002469s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004435s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005104s ]
+
+[ 2017-03-29T21:01:00+08:00 ] ::1 /XXXX/TC/index.php/Project/contact.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001354s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001872s ]
+NOTIC: [2048] Declaration of Home\Controller\ProjectController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 6 行.
+SQL: SHOW COLUMNS FROM `tc_newstudent` [ RunTime:0.0125s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027030s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027467s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000921s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001328s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002527s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003284s ]
+

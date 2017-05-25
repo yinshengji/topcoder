@@ -1,0 +1,201 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>信息</title>
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="{$smarty.const.Bbs_css}/style.css">
+<link rel="stylesheet" href="{$smarty.const.Bbs_editor}/themes/default/default.css" />
+<script charset="utf-8" src="{$smarty.const.Bbs_editor}/kindeditor-min.js"></script>
+<script charset="utf-8" src="{$smarty.const.Bbs_editor}/lang/zh_CN.js"></script>
+<script>
+  var editor;
+  KindEditor.ready(function(K) {
+    editor = K.create('textarea[name="content"]', {
+      resizeType : 1,
+      allowPreviewEmoticons : false,
+      allowImageUpload : false,
+      items : [
+        'fontname', 'fontsize', '|', 'forecolor', 'hilitecolor', 'bold', 'italic', 'underline',
+        'removeformat', '|', 'justifyleft', 'justifycenter', 'justifyright', 'insertorderedlist',
+        'insertunorderedlist', '|', 'emoticons', 'image', 'link']
+    });
+  });
+</script>
+{literal}
+<style>
+  .op_foot_but{font-size:16px;margin-top:10px;display:inline-block;padding:6px;margin-left:10px;background:;}
+  .op_foot_but a:hover{color:#000;}
+  .text-box .comment { border: 1px solid #ccc; display: block; height: 50px; width: 428px; padding: 5px; color: #000;margin-top:15px;}
+       
+        .text-box .btn-off { border: 1px solid #ccc; color: #ccc; background: #F7F7F7;}
+       
+       .btn{display:inline-block;margin-left:430px;margin-top:-60px;}
+         .comment{ height: 100px; color: #000;}
+       
+        
+        
+</style>
+{/literal}
+</head>
+<body>
+<div class="contaner">
+  <div class="s_header">
+      <ul>
+        <li class="a" id="">
+          <a href="">分享平台</a>
+        </li>
+      </ul>
+ </div>
+ <!--    <div id="drop">
+        <button type="button" id="drops"><a href="{$smarty.const.__SELF__}?lg=logout">退出</a></button>
+        <button type="button" id="drops"><a href="{$smarty.const.__APP__}/Inform/login">登陆</a></button>
+        <div style="float:right;margin-top:6px">
+          <marquee class="mar" loop="-1" behavior="scroll" direction="right">欢迎{$name}登陆！</marquee>
+        </div>
+        
+    </div> -->
+    <div class="s_search">
+      <form action="" method="post" style="height:45px">
+        <div id="" style="float:left;">
+          <input id="searchs_input" type="text" name="content" placeholder="请输入帖子内容关键字" />
+        </div>
+        <div style="float:left;height:45px;margin-left:-5px;margin-top:27px;">
+          <input type="submit" value="" name="search" id="s_but" />
+        </div>
+      </form>
+    </div>
+    <div class="op_head">
+        <a class="head_a" href="#">全部主题</a>
+        <div class="op_a2 op_a">
+          <a class="op_a2" href="">发表时间</a>
+        </div>
+        <div class="op_a1 op_a">
+          <a href="" class="op_a1">作者</a>
+        </div>
+    </div>
+</div>
+ 
+
+<div class="panel-group" id="accordion">
+{foreach $info as $v}
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <div class="title">
+                  <img src="{$smarty.const.Bbs_images}/ann_icon.gif" alt=""/>
+                 <strong style="font-size:14px;margin-left:5px;">最新：</strong>
+                 <a data-toggle="collapse" data-parent="#accordion" href="#collapse{$v@iteration}"  >{$v.title}
+                  </a>
+                </div>
+                
+                <div id="op_t">
+                   <a href="" class="author">{$v.name}</a>
+                   <a href="" class="time">{$v.date} </a>
+                </div>
+            </h4>
+        </div>
+         
+        <div id="collapse{$v@iteration}" class="panel-collapse collapse ">
+            <div class="panel-body">
+                <a href="#"><span class="mes_peo">发表人：</span>{$v.name}</a>
+               <span class="mes_span">{$v.content}</span>
+              <div id="list">
+                 <div class="text-box">
+                    <form action="" method="post">
+                    <textarea class="comment" autocomplete="off" placeholder="评论…"></textarea>
+                    <input type="hidden" name="uid" value="{$v.id}"/>
+                    <input type="hidden" name="pid" value="0"/>
+                    <input type="submit" value="评论" name="commit" class="btn" />
+                    </form>
+                 </div>
+               </div>
+                
+                 {foreach $comment as $vo}
+                  {if {$v.id} eq {$vo.uid}}
+             <div style="padding-left:{$vo['level']+1}cm;margin-top:10px;">
+
+               <div>
+                   <span style="color:#2770C0;">{$vo.name} {$vo.grade}-{$vo.tc_group}</span>
+                   <span style="margin:0 50px;">{$vo.content}</span> 
+                  <span>时间 {$vo.date}</span>
+                  <a href="#" style="font-size:16px; margin-left:20px;" onclick="showdiv(this);" >回复</a> 
+                </div>
+
+
+                <div class="comment" style="display:none;">
+                      <a href="#" style="float:left;font-size:16px;margin-right:20px;"  >回复</a>
+                      <span style="color:#2770C0;">{$vo.name} {$vo.grade}-{$vo.tc_group}</span>
+                      <span style="margin:0 50px;">{$vo.content}</span> 
+                       时间 {$vo.date}<br />
+                      <a href="#" class="btn" onclick="hidediv(this);">取消回复</a>
+                      <form action="" method="post">
+                          <textarea name="content" ></textarea>
+                          <input type="hidden" type="text" name="uid" value="{$v.id}"/>
+                          <input type="hidden" type="text" name="pid" value="{$vo.id}"/>
+                        <input type="submit" value="回复" name="response" class="btn" style="margin:20px 0px 10px 470px;" />
+                      </form>
+                </div>
+
+              </div>
+              {else} {/if}
+              {/foreach}
+               
+               
+            </div>
+          </div>
+
+        </div>
+         {/foreach}
+    </div>
+       
+
+       <div style="font-size:16px;display:inline-block;width:100%;height:20px;line-height:20px;text-align:center;">{$pagelist}</div> 
+      
+
+       
+<script src="http://libs.baidu.com/jquery/1.9.0/jquery.js"></script>
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<script>
+    
+    // $(function(){
+    //   $('#huifu{$vo.id}').click(function(){
+    //     $('.comment').toggle();
+    //   });
+    // });
+     
+
+      var time = 300;
+        var h = 40;
+        function showdiv(obj) {
+
+            //obj.parentNode.nextSibling.nextSibling.style.display = "block";
+            var x = obj.parentNode.nextSibling;
+            //包含众多空格作为文本节点，因此在我们使用nextSibling和previousSibling时就会出现问题。
+            //因为FireFox会把文本节点误当做元素节点的兄弟节点来处理。我们可以添加nodeType来判断。
+            //当上一节点或者是下一节点为文本节点时，就继续寻找，直到找到下一个元素节点。
+            //  其中nodeType的值主要有以下几种：
+            // 
+            // 元素节点的nodeType值为1
+            // 属性节点的nodeType值为2
+            // 文本节点的nodeType值为3
+            if (x.nodeType != 1) {
+                x = x.nextSibling;
+            }
+            x.style.display = "block";
+            obj.parentNode.style.display = "none";
+        }
+        function hidediv(obj) {
+
+            obj.parentNode.style.display = "none";
+            var x = obj.parentNode.previousSibling;
+            if (x.nodeType != 1) {
+                x = x.previousSibling;
+            }
+            x.style.display = "block";
+        }
+ 
+
+</script>
+</body>
+</html>

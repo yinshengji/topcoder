@@ -1,0 +1,18 @@
+[ 2017-04-17T10:37:55+08:00 ] ::1 /XXXX/TC/index.php/Admin/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000200s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002859s ]
+ERR: 无法加载模块:Admin
+
+[ 2017-04-17T10:37:56+08:00 ] ::1 /XXXX/TC/index.php/Admin/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000148s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002497s ]
+ERR: 无法加载模块:Admin
+
+[ 2017-04-17T18:13:25+08:00 ] ::1 /XXXX/TC/index.php/Admin/verifyI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001577s ]
+ERR: 无法加载模块:Admin
+

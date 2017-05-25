@@ -1,0 +1,849 @@
+[ 2017-03-05T20:35:24+08:00 ] ::1 /XXXX/TC/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000169s ]
+INFO: [ app_init ] --END-- [ RunTime:0.038715s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.016082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016650s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.140701s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.141150s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.024916s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.025453s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.022816s ]
+INFO: [ app_end ] --END-- [ RunTime:0.023511s ]
+
+[ 2017-03-05T20:35:51+08:00 ] ::1 /XXXX/TC/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000135s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002187s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003303s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.058541s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.059371s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002308s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003242s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002486s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003173s ]
+
+[ 2017-03-05T20:35:51+08:00 ] ::1 /XXXX/TC/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000141s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001704s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002123s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037200s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038091s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001832s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002502s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003480s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006299s ]
+
+[ 2017-03-05T20:35:51+08:00 ] ::1 /XXXX/TC/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000141s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002565s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002791s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003519s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.082058s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.082760s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002138s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003365s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002424s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004589s ]
+
+[ 2017-03-05T20:35:51+08:00 ] ::1 /XXXX/TC/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000155s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003836s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004575s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.071128s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.071889s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001521s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002206s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002892s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003620s ]
+
+[ 2017-03-05T20:35:51+08:00 ] ::1 /XXXX/TC/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000136s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003134s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004379s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046110s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046707s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002250s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003226s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003824s ]
+
+[ 2017-03-05T20:36:03+08:00 ] ::1 /XXXX/TC/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000133s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002964s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045102s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045822s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001452s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004121s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005292s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006281s ]
+
+[ 2017-03-05T20:36:09+08:00 ] ::1 /XXXX/TC/index.php/Project/contact.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000140s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002126s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002816s ]
+NOTIC: [2048] Declaration of Home\Controller\ProjectController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\ProjectController.class.php 第 6 行.
+SQL: SHOW COLUMNS FROM `tc_newstudent` [ RunTime:0.1038s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.056182s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.056975s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000865s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001403s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002473s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003218s ]
+
+[ 2017-03-05T20:36:20+08:00 ] ::1 /XXXX/TC/index.php/Inform/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000142s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001941s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001822s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 174 行.
+NOTIC: [8] Undefined index: drop D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 115 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0476s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045996s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046440s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000813s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001198s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001437s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001825s ]
+
+[ 2017-03-05T20:36:21+08:00 ] ::1 /XXXX/TC/index.php/Inform/detail.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000139s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003382s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 174 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0142s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: info D:\wamp\www\XXXX\TC\Runtime\Cache\3977ac8eb42ed96ef0b50e0421d9f0bd4aff97fa.file.detail.html.php 第 40 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\XXXX\TC\Runtime\Cache\3977ac8eb42ed96ef0b50e0421d9f0bd4aff97fa.file.detail.html.php 第 40 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049519s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050229s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001192s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002922s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003868s ]
+
+[ 2017-03-05T20:36:25+08:00 ] ::1 /XXXX/TC/index.php/Inform/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000160s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001959s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002618s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 174 行.
+NOTIC: [8] Undefined index: drop D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 115 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0100s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030510s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030942s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000887s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001291s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001463s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002137s ]
+
+[ 2017-03-05T20:36:26+08:00 ] ::1 /XXXX/TC/index.php/Inform/detail.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000136s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002177s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002894s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 174 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0112s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: info D:\wamp\www\XXXX\TC\Runtime\Cache\3977ac8eb42ed96ef0b50e0421d9f0bd4aff97fa.file.detail.html.php 第 40 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\XXXX\TC\Runtime\Cache\3977ac8eb42ed96ef0b50e0421d9f0bd4aff97fa.file.detail.html.php 第 40 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032746s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033485s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001697s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002347s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002253s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002926s ]
+
+[ 2017-03-05T20:36:30+08:00 ] ::1 /XXXX/TC/index.php/Inform/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000429s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003463s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003865s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004823s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 174 行.
+NOTIC: [8] Undefined index: drop D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 115 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0179s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035110s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035765s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001216s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001867s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003021s ]
+
+[ 2017-03-05T20:36:30+08:00 ] ::1 /XXXX/TC/index.php/Inform/detail.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000160s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002099s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002157s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002849s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 174 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0123s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: info D:\wamp\www\XXXX\TC\Runtime\Cache\3977ac8eb42ed96ef0b50e0421d9f0bd4aff97fa.file.detail.html.php 第 40 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\XXXX\TC\Runtime\Cache\3977ac8eb42ed96ef0b50e0421d9f0bd4aff97fa.file.detail.html.php 第 40 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038670s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039394s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001176s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001820s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004114s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004779s ]
+
+[ 2017-03-05T20:36:36+08:00 ] ::1 /XXXX/TC/index.php/Inform/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000186s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002759s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001877s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 174 行.
+NOTIC: [8] Undefined index: drop D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 115 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0245s ]
+SQL: SELECT * FROM `tc_greatest` WHERE `grade` = '' AND `groups` = '' AND `name` = '大哥大'  [ RunTime:0.0579s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034042s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034802s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001118s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001827s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002193s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002912s ]
+
+[ 2017-03-05T20:36:36+08:00 ] ::1 /XXXX/TC/index.php/Inform/detail.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000131s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002019s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002768s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 174 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0116s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: info D:\wamp\www\XXXX\TC\Runtime\Cache\3977ac8eb42ed96ef0b50e0421d9f0bd4aff97fa.file.detail.html.php 第 40 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\XXXX\TC\Runtime\Cache\3977ac8eb42ed96ef0b50e0421d9f0bd4aff97fa.file.detail.html.php 第 40 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040208s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040911s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001073s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001698s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002003s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004721s ]
+
+[ 2017-03-05T20:36:48+08:00 ] ::1 /XXXX/TC/index.php/Inform/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000146s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002696s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002052s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002762s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 174 行.
+NOTIC: [8] Undefined index: drop D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 115 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0118s ]
+SQL: SELECT * FROM `tc_greatest` WHERE `grade` = '2011级' AND `groups` = '' AND `name` = '大哥大'  [ RunTime:0.0011s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030340s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030933s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000739s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001228s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003159s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004398s ]
+
+[ 2017-03-05T20:36:48+08:00 ] ::1 /XXXX/TC/index.php/Inform/detail.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000139s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003996s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006968s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 174 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0128s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: info D:\wamp\www\XXXX\TC\Runtime\Cache\3977ac8eb42ed96ef0b50e0421d9f0bd4aff97fa.file.detail.html.php 第 40 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\XXXX\TC\Runtime\Cache\3977ac8eb42ed96ef0b50e0421d9f0bd4aff97fa.file.detail.html.php 第 40 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031698s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032246s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001061s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001696s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002004s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002667s ]
+
+[ 2017-03-05T20:36:51+08:00 ] ::1 /XXXX/TC/index.php/Inform/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000136s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002075s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001997s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 174 行.
+NOTIC: [8] Undefined index: drop D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 115 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0099s ]
+SQL: SELECT * FROM `tc_greatest` WHERE `grade` = '' AND `groups` = '' AND `name` = ''  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028811s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029373s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000738s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001180s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001428s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001802s ]
+
+[ 2017-03-05T20:36:51+08:00 ] ::1 /XXXX/TC/index.php/Inform/detail.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000135s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002028s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003570s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 174 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0107s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: info D:\wamp\www\XXXX\TC\Runtime\Cache\3977ac8eb42ed96ef0b50e0421d9f0bd4aff97fa.file.detail.html.php 第 40 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\XXXX\TC\Runtime\Cache\3977ac8eb42ed96ef0b50e0421d9f0bd4aff97fa.file.detail.html.php 第 40 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026283s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026907s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000806s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001168s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001373s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001801s ]
+
+[ 2017-03-05T20:36:58+08:00 ] ::1 /XXXX/TC/index.php/Inform/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000135s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001643s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001867s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 174 行.
+NOTIC: [8] Undefined index: drop D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 115 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0109s ]
+SQL: SELECT * FROM `tc_greatest` WHERE `grade` = '2011级' AND `groups` = '算法组' AND `name` = ''  [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030794s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031244s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000742s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001154s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001748s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002163s ]
+
+[ 2017-03-05T20:36:58+08:00 ] ::1 /XXXX/TC/index.php/Inform/detail.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000133s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002887s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004233s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 174 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0131s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: info D:\wamp\www\XXXX\TC\Runtime\Cache\3977ac8eb42ed96ef0b50e0421d9f0bd4aff97fa.file.detail.html.php 第 40 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\XXXX\TC\Runtime\Cache\3977ac8eb42ed96ef0b50e0421d9f0bd4aff97fa.file.detail.html.php 第 40 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035606s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036295s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000776s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001157s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001563s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001940s ]
+
+[ 2017-03-05T20:37:26+08:00 ] ::1 /XXXX/TC/index.php/Inform/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001929s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003089s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 174 行.
+NOTIC: [8] Undefined index: drop D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 115 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0143s ]
+SQL: SELECT * FROM `tc_greatest` WHERE `grade` = '2011级' AND `groups` = '算法组' AND `name` = ''  [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032291s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032857s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001057s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001685s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002297s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003004s ]
+
+[ 2017-03-05T20:37:26+08:00 ] ::1 /XXXX/TC/index.php/Inform/detail.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000304s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002623s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002590s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003488s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 174 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0127s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: info D:\wamp\www\XXXX\TC\Runtime\Cache\3977ac8eb42ed96ef0b50e0421d9f0bd4aff97fa.file.detail.html.php 第 40 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\XXXX\TC\Runtime\Cache\3977ac8eb42ed96ef0b50e0421d9f0bd4aff97fa.file.detail.html.php 第 40 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038355s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038999s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001151s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001818s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003950s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004794s ]
+
+[ 2017-03-05T20:37:30+08:00 ] ::1 /XXXX/TC/index.php/Inform/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001486s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001829s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 174 行.
+NOTIC: [8] Undefined index: drop D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 115 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0113s ]
+SQL: SELECT * FROM `tc_greatest` WHERE `grade` = '2011级' AND `groups` = '算法组' AND `name` = ''  [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029788s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030378s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000732s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001224s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001433s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001808s ]
+
+[ 2017-03-05T20:37:31+08:00 ] ::1 /XXXX/TC/index.php/Inform/detail.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002161s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002183s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002870s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 174 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0129s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: info D:\wamp\www\XXXX\TC\Runtime\Cache\3977ac8eb42ed96ef0b50e0421d9f0bd4aff97fa.file.detail.html.php 第 40 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\XXXX\TC\Runtime\Cache\3977ac8eb42ed96ef0b50e0421d9f0bd4aff97fa.file.detail.html.php 第 40 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028889s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029567s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000794s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001173s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001381s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001753s ]
+
+[ 2017-03-05T20:37:37+08:00 ] ::1 /XXXX/TC/index.php/Inform/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000230s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002095s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002982s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 174 行.
+NOTIC: [8] Undefined index: drop D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 115 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `tc_greatest` WHERE `grade` = '' AND `groups` = '' AND `name` = '大哥大'  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029125s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029787s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001042s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001590s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002692s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003521s ]
+
+[ 2017-03-05T20:37:37+08:00 ] ::1 /XXXX/TC/index.php/Inform/detail.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004103s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 174 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0122s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: info D:\wamp\www\XXXX\TC\Runtime\Cache\3977ac8eb42ed96ef0b50e0421d9f0bd4aff97fa.file.detail.html.php 第 40 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\XXXX\TC\Runtime\Cache\3977ac8eb42ed96ef0b50e0421d9f0bd4aff97fa.file.detail.html.php 第 40 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032788s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033498s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001081s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001696s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001989s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002621s ]
+
+[ 2017-03-05T20:37:45+08:00 ] ::1 /XXXX/TC/index.php/Inform/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000151s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002447s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001994s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 174 行.
+NOTIC: [8] Undefined index: drop D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 115 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0188s ]
+SQL: SELECT * FROM `tc_greatest` WHERE `grade` = '2011级' AND `groups` = '算法组' AND `name` = ''  [ RunTime:0.0012s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031021s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031750s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000789s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001320s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001854s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002240s ]
+
+[ 2017-03-05T20:37:46+08:00 ] ::1 /XXXX/TC/index.php/Inform/detail.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000146s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002726s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004760s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005663s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 174 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0123s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: info D:\wamp\www\XXXX\TC\Runtime\Cache\3977ac8eb42ed96ef0b50e0421d9f0bd4aff97fa.file.detail.html.php 第 40 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\XXXX\TC\Runtime\Cache\3977ac8eb42ed96ef0b50e0421d9f0bd4aff97fa.file.detail.html.php 第 40 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031163s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031985s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001078s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001594s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001971s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002603s ]
+
+[ 2017-03-05T20:37:55+08:00 ] ::1 /XXXX/TC/index.php/Inform/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001515s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003102s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 174 行.
+NOTIC: [8] Undefined index: drop D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 115 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0377s ]
+SQL: SELECT * FROM `tc_greatest` WHERE `grade` = '2011级' AND `groups` = '算法组'  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034181s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034659s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001061s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001463s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002419s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002965s ]
+
+[ 2017-03-05T20:37:55+08:00 ] ::1 /XXXX/TC/index.php/Inform/detail.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001478s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002047s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 174 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0121s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: info D:\wamp\www\XXXX\TC\Runtime\Cache\3977ac8eb42ed96ef0b50e0421d9f0bd4aff97fa.file.detail.html.php 第 40 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\XXXX\TC\Runtime\Cache\3977ac8eb42ed96ef0b50e0421d9f0bd4aff97fa.file.detail.html.php 第 40 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045866s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046651s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001391s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002382s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003060s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004146s ]
+
+[ 2017-03-05T20:38:04+08:00 ] ::1 /XXXX/TC/index.php/Inform/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000154s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002482s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002594s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 174 行.
+NOTIC: [8] Undefined index: drop D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 115 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0190s ]
+SQL: SELECT * FROM `tc_greatest` WHERE `grade` = '2011级' AND `groups` = ''  [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036972s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037431s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001500s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002107s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002642s ]
+
+[ 2017-03-05T20:38:05+08:00 ] ::1 /XXXX/TC/index.php/Inform/detail.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000144s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002125s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005822s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 174 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0097s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: info D:\wamp\www\XXXX\TC\Runtime\Cache\3977ac8eb42ed96ef0b50e0421d9f0bd4aff97fa.file.detail.html.php 第 40 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\XXXX\TC\Runtime\Cache\3977ac8eb42ed96ef0b50e0421d9f0bd4aff97fa.file.detail.html.php 第 40 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029867s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030426s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001571s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002518s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002372s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003069s ]
+
+[ 2017-03-05T20:38:08+08:00 ] ::1 /XXXX/TC/index.php/Inform/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000141s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002166s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002926s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 174 行.
+NOTIC: [8] Undefined index: drop D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 115 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0115s ]
+SQL: SELECT * FROM `tc_greatest` WHERE `grade` = '' AND `groups` = '算法组'  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029372s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029822s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000764s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001256s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001622s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001997s ]
+
+[ 2017-03-05T20:38:08+08:00 ] ::1 /XXXX/TC/index.php/Inform/detail.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001941s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002764s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003777s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 174 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0121s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: info D:\wamp\www\XXXX\TC\Runtime\Cache\3977ac8eb42ed96ef0b50e0421d9f0bd4aff97fa.file.detail.html.php 第 40 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\XXXX\TC\Runtime\Cache\3977ac8eb42ed96ef0b50e0421d9f0bd4aff97fa.file.detail.html.php 第 40 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030294s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030849s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000790s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001143s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001906s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002419s ]
+
+[ 2017-03-05T20:38:13+08:00 ] ::1 /XXXX/TC/index.php/Inform/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000219s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001817s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002915s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003680s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 174 行.
+NOTIC: [8] Undefined index: drop D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 115 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0119s ]
+SQL: SELECT * FROM `tc_greatest` WHERE `grade` = '2011级' AND `groups` = '算法组'  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032137s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032737s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001593s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002243s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003750s ]
+
+[ 2017-03-05T20:38:13+08:00 ] ::1 /XXXX/TC/index.php/Inform/detail.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000138s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002389s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003455s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005072s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 174 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0142s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: info D:\wamp\www\XXXX\TC\Runtime\Cache\3977ac8eb42ed96ef0b50e0421d9f0bd4aff97fa.file.detail.html.php 第 40 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\XXXX\TC\Runtime\Cache\3977ac8eb42ed96ef0b50e0421d9f0bd4aff97fa.file.detail.html.php 第 40 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037033s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037684s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001059s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001679s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002406s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003127s ]
+
+[ 2017-03-05T20:43:25+08:00 ] ::1 /XXXX/TC/index.php/Inform/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000151s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003505s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 173 行.
+NOTIC: [8] Undefined index: drop D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 115 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0201s ]
+SQL: SELECT * FROM `tc_greatest` WHERE `grade` = '2011级' AND `groups` = '算法组'  [ RunTime:0.0026s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042677s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043433s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001572s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002278s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002684s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003365s ]
+
+[ 2017-03-05T20:43:26+08:00 ] ::1 /XXXX/TC/index.php/Inform/detail.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000135s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002599s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003797s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004757s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 173 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0237s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: info D:\wamp\www\XXXX\TC\Runtime\Cache\3977ac8eb42ed96ef0b50e0421d9f0bd4aff97fa.file.detail.html.php 第 40 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\XXXX\TC\Runtime\Cache\3977ac8eb42ed96ef0b50e0421d9f0bd4aff97fa.file.detail.html.php 第 40 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038711s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039459s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001193s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001857s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002628s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003408s ]
+
+[ 2017-03-05T20:44:43+08:00 ] ::1 /XXXX/TC/index.php/Inform/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000331s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003244s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 173 行.
+NOTIC: [8] Undefined index: drop D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 115 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0183s ]
+SQL: SELECT * FROM `tc_greatest` WHERE `grade` = '2011级' AND `groups` = '算法组'  [ RunTime:0.0011s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.528401s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.529234s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002579s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003089s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002806s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003550s ]
+
+[ 2017-03-05T20:44:43+08:00 ] ::1 /XXXX/TC/index.php/Inform/detail.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000145s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002722s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007999s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009483s ]
+NOTIC: [2048] Declaration of Home\Controller\InformController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\XXXX\TC\Home\Controller\InformController.class.php 第 173 行.
+SQL: SHOW COLUMNS FROM `tc_greatest` [ RunTime:0.0164s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: v D:\wamp\www\XXXX\TC\Runtime\Cache\3977ac8eb42ed96ef0b50e0421d9f0bd4aff97fa.file.detail.html.php 第 40 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\XXXX\TC\Runtime\Cache\3977ac8eb42ed96ef0b50e0421d9f0bd4aff97fa.file.detail.html.php 第 40 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.269694s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.270283s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001746s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002245s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002279s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002906s ]
+

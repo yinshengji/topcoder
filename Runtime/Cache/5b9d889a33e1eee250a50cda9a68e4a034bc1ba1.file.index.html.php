@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.6, created on 2017-06-02 23:21:45
+<?php /* Smarty version Smarty-3.1.6, created on 2017-06-03 00:20:04
          compiled from "F:/wamp/www/topcoder/Home/View\Index\index.html" */ ?>
 <?php /*%%SmartyHeaderCode:516059317b47968759-84968555%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '5b9d889a33e1eee250a50cda9a68e4a034bc1ba1' => 
     array (
       0 => 'F:/wamp/www/topcoder/Home/View\\Index\\index.html',
-      1 => 1496416768,
+      1 => 1496420394,
       2 => 'file',
     ),
   ),
@@ -140,15 +140,15 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     <div class="carousel-inner">
         <div class="item active" style="background:#223240;">
             <img src="<?php echo @image;?>
-/slide10.png" alt="第一张">
+/slide10.jpg" alt="第一张">
         </div>
         <div class="item" style="background:#F5E4DC;">
             <img src="<?php echo @image;?>
-/slide8.png" alt="第二张">
+/slide8.jpg" alt="第二张">
         </div>
         <div class="item" style="">
             <img src="<?php echo @image;?>
-/slide9.png" alt="第三张">
+/slide9.jpg" alt="第三张">
         </div>
     </div>
     <a href="#mycarousel" data-slide="prev" class="carousel-control left">
@@ -224,43 +224,43 @@ $_valid = $_smarty_tpl->decodeProperties(array (
             <li>
                 <div class="grid col-md-4">
                     <img src="<?php echo @image;?>
-/prize_1.png" alt="prize_1">
+/prize_1.jpg" alt="prize_1">
                 </div>
             </li>
             <li>
                 <div class="grid col-md-4">
                     <img src="<?php echo @image;?>
-/prize_2.png" alt="prize_2">
+/prize_2.jpg" alt="prize_2">
                 </div>
             </li>
             <li>
                 <div class="grid col-md-4">
                     <img src="<?php echo @image;?>
-/prize_3.png" alt="prize_3">
+/prize_3.jpg" alt="prize_3">
                 </div>
             </li>
             <li>
                 <div class="grid col-md-4">
                     <img src="<?php echo @image;?>
-/prize_4.png" alt="prize_4">
+/prize_4.jpg" alt="prize_4">
                 </div>
             </li>
             <li>
                 <div class="grid col-md-4">
                     <img src="<?php echo @image;?>
-/prize_5.png" alt="prize_5">
+/prize_5.jpg" alt="prize_5">
                 </div>
             </li>
             <li>
                 <div class="grid col-md-4">
                     <img src="<?php echo @image;?>
-/prize_6.png" alt="prize_6">
+/prize_6.jpg" alt="prize_6">
                 </div>
             </li>
             <li>
                 <div class="grid col-md-4">
                     <img src="<?php echo @image;?>
-/prize_7.png" alt="prize_7">
+/prize_7.jpg" alt="prize_7">
                 </div>
             </li>
         </ul>

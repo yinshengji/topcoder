@@ -117,7 +117,7 @@ span.menu{
 /*--banner start here--*/
 .banner {
 	padding: 2em 0px 0px 0px;
-	background:url(../images/banner.jpg)no-repeat;
+	background:url(../images/banner.png)no-repeat;
 	background-size:cover;
 	background-size: cover;
 	-webkit-background-size:cover;
@@ -164,7 +164,7 @@ span.menu{
 /*--info-grid start here--*/
 .info-grid {
 /*	background: url(../images/info-bg.jpg);*/
-	background:url(../images/banner.jpg);
+	background:url(../images/banner.png);
 	padding: 3em 0px 5em 0px;
 	background-size: cover;
 	-webkit-background-size:cover;
@@ -256,7 +256,7 @@ span.gd-clr {
 .flex-slider{
 	min-height: 300px;
 	padding: 2.5em 0em;
-	background:url(../images/banner.jpg);
+	background:url(../images/banner.png);
 	/*background: url(../images/slid-bg.jpg);*/
 }
 .grid{
@@ -569,7 +569,7 @@ ul.img-sprit li a.t:hover{
 /*--about start here--*/
 .about {
 	padding: 3em 0px;
-	background: url(../images/banner.jpg);
+	background: url(../images/banner.png);
 }
 .about-left img {
 	width: 100%;
@@ -599,7 +599,7 @@ ul.img-sprit li a.t:hover{
 }
 .team {
 	padding-bottom: 3em;
-	background: url(../images/banner.jpg);
+	background: url(../images/banner.png);
 }
 .about-left ul {
 	list-style: none;
@@ -624,7 +624,7 @@ ul.img-sprit li a.t:hover{
 /*--services start here--*/
 .service {
 	padding: 3em 0px;
-	background:url(../images/banner.jpg);
+	background:url(../images/banner.png);
 }
 .service-top {
 	text-align:center;
@@ -674,7 +674,7 @@ ul.img-sprit li a.t:hover{
 }
 .solution {
 	padding: 3em 0px;
-	background: url(../images/banner.jpg);
+	background: url(../images/banner.png);
 }
 .solution-main {
 	text-align: center;
@@ -737,7 +737,7 @@ ul.img-sprit li a.t:hover{
 }
 .projects {
 	padding: 3em 0px;
-	background: url(../images/banner.jpg);
+	background: url(../images/banner.png);
 }
 .projects-top h3 {
 	font-size: 2em;
@@ -909,7 +909,7 @@ a.comme:hover {
 /*--contact start here--*/
 .contact {
 	padding: 3em 0px;
-	background: url(../images/banner.jpg);
+	background: url(../images/banner.png);
 }
 .contact-top {
 	text-align: center;
@@ -992,7 +992,7 @@ a.comme:hover {
 }
 .map {
 	padding-bottom: 2em;
-	background: url(../images/banner.jpg);
+	background: url(../images/banner.png);
 }
 /*--contact end here--*/
 /*--media quries start here--*/

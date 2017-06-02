@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.6, created on 2017-06-02 23:10:47
+<?php /* Smarty version Smarty-3.1.6, created on 2017-06-02 23:58:16
          compiled from "F:/wamp/www/topcoder/Home/View\Project\single.html" */ ?>
 <?php /*%%SmartyHeaderCode:148659317cda5c0757-74849397%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '1ed8e84ee4732d11d9fdf37773e18509b22ff17a' => 
     array (
       0 => 'F:/wamp/www/topcoder/Home/View\\Project\\single.html',
-      1 => 1496416122,
+      1 => 1496419092,
       2 => 'file',
     ),
   ),
@@ -98,12 +98,12 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 /Project/about.html">简介</a></li>
 					<li><a href="<?php echo @__APP__;?>
 /Project/suanfa.html">算法</a></li>
-					<li><a class="<?php echo @__APP__;?>
-/Project/active" href="solution.html">项目</a></li>
+					<li><a href="<?php echo @__APP__;?>
+/Project/single.html" class="active">项目</a></li>
 					<li><a href="<?php echo @__APP__;?>
 /Project/project.html">相册</a></li>
 					<li><a href="<?php echo @__APP__;?>
-/Project/contact.html">联系我们</a></li>
+/Project/contact.html">加入我们</a></li>
 				</ul>
 			</div>
 			<div class="clearfix"> </div>

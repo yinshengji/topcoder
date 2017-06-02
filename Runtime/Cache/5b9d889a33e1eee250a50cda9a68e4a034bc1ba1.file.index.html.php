@@ -1,16 +1,43 @@
-<!DOCTYPE HTML>
+<?php /* Smarty version Smarty-3.1.6, created on 2017-06-02 23:21:45
+         compiled from "F:/wamp/www/topcoder/Home/View\Index\index.html" */ ?>
+<?php /*%%SmartyHeaderCode:516059317b47968759-84968555%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+$_valid = $_smarty_tpl->decodeProperties(array (
+  'file_dependency' => 
+  array (
+    '5b9d889a33e1eee250a50cda9a68e4a034bc1ba1' => 
+    array (
+      0 => 'F:/wamp/www/topcoder/Home/View\\Index\\index.html',
+      1 => 1496416768,
+      2 => 'file',
+    ),
+  ),
+  'nocache_hash' => '516059317b47968759-84968555',
+  'function' => 
+  array (
+  ),
+  'version' => 'Smarty-3.1.6',
+  'unifunc' => 'content_59317b4840365',
+  'has_nocache_code' => false,
+),false); /*/%%SmartyHeaderCode%%*/?>
+<?php if ($_valid && !is_callable('content_59317b4840365')) {function content_59317b4840365($_smarty_tpl) {?><!DOCTYPE HTML>
 <html>
 <head>
     <title>首页</title>
     <meta name="baidu-site-verification" content="3dYksPJDxL" />
-    <link href="{$smarty.const.css}/bootstrap.css" rel="stylesheet" type="text/css" media="all">
+    <link href="<?php echo @css;?>
+/bootstrap.css" rel="stylesheet" type="text/css" media="all">
 
-    <link rel="bookmark" type="image/x-icon" href="{$smarty.const.image}/logo.ico"/>
-    <link rel="shortcut icon" href="{$smarty.const.image}/logo.ico">
-    <link rel="icon" href="{$smarty.const.image}/logo.ico">
+    <link rel="bookmark" type="image/x-icon" href="<?php echo @image;?>
+/logo.ico"/>
+    <link rel="shortcut icon" href="<?php echo @image;?>
+/logo.ico">
+    <link rel="icon" href="<?php echo @image;?>
+/logo.ico">
 
-    <link href="{$smarty.const.css}/style.css" rel="stylesheet" type="text/css" media="all"/>
-    <link href="{$smarty.const.css}/hover.css" rel="stylesheet" media="all">
+    <link href="<?php echo @css;?>
+/style.css" rel="stylesheet" type="text/css" media="all"/>
+    <link href="<?php echo @css;?>
+/hover.css" rel="stylesheet" media="all">
     <!-- Custom Theme files -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
@@ -35,7 +62,8 @@
         .navg ul li a.active {
             text-decoration: none;
             color: #fff;
-            background: url({$smarty.const.images}/nav-back.png) no-repeat 0 -3px;
+            background: url(<?php echo @images;?>
+/nav-back.png) no-repeat 0 -3px;
             background-size: initial;
             transition: 0.5s all;
             -webkit-transition: 0.5s all;
@@ -43,14 +71,14 @@
             -o-transition: 0.5s all;
         }
 
-        {literal}
+        
         @media (max-width: 375px) {
             .grid {
                 padding-right: 20px;
             }
         }
-        {/literal}
-        {literal}
+        
+        
 
         @media (max-width: 768px) {
             .info-bott h5 {
@@ -58,7 +86,7 @@
             }
         }
 
-        {/literal}
+        
     </style>
 </head>
 <body>
@@ -67,17 +95,25 @@
     <div class="container head-nav-back">
         <div class="header-main">
             <div class="logo">
-                <a href="index.html"> <img src="{$smarty.const.images}/logo1.png" alt=""/></a>
+                <a href="index.html"> <img src="<?php echo @images;?>
+/logo1.png" alt=""/></a>
             </div>
             <div class="navg">
-                <span class="menu"> <img src="{$smarty.const.images}/icon.png" alt=""/></span>
+                <span class="menu"> <img src="<?php echo @images;?>
+/icon.png" alt=""/></span>
                 <ul class="res">
-                    <li><a class="active" href="{$smarty.const.__APP__}">首页</a></li>
-                    <li><a href="{$smarty.const.__APP__}/Project/about">简介</a></li>
-                    <li><a href="{$smarty.const.__APP__}/Project/suanfa.html">算法</a></li>
-                    <li><a href="{$smarty.const.__APP__}/Project/single.html">项目</a></li>
-                    <li><a href="{$smarty.const.__APP__}/Project/project.html">相册</a></li>
-                    <li><a href="{$smarty.const.__APP__}/Project/contact.html">加入我们</a></li>
+                    <li><a class="active" href="<?php echo @__APP__;?>
+">首页</a></li>
+                    <li><a href="<?php echo @__APP__;?>
+/Project/about">简介</a></li>
+                    <li><a href="<?php echo @__APP__;?>
+/Project/suanfa.html">算法</a></li>
+                    <li><a href="<?php echo @__APP__;?>
+/Project/single.html">项目</a></li>
+                    <li><a href="<?php echo @__APP__;?>
+/Project/project.html">相册</a></li>
+                    <li><a href="<?php echo @__APP__;?>
+/Project/contact.html">加入我们</a></li>
                 </ul>
                 <script type="text/javascript">
                     $("span.menu").click(function () {
@@ -103,13 +139,16 @@
     </ol>
     <div class="carousel-inner">
         <div class="item active" style="background:#223240;">
-            <img src="{$smarty.const.image}/slide10.png" alt="第一张">
+            <img src="<?php echo @image;?>
+/slide10.png" alt="第一张">
         </div>
         <div class="item" style="background:#F5E4DC;">
-            <img src="{$smarty.const.image}/slide8.png" alt="第二张">
+            <img src="<?php echo @image;?>
+/slide8.png" alt="第二张">
         </div>
         <div class="item" style="">
-            <img src="{$smarty.const.image}/slide9.png" alt="第三张">
+            <img src="<?php echo @image;?>
+/slide9.png" alt="第三张">
         </div>
     </div>
     <a href="#mycarousel" data-slide="prev" class="carousel-control left">
@@ -130,7 +169,8 @@
                     <h3>nyist_飘谊 <span class="gd-clr">大神博客</span></h3>
                 </div>
                 <div class="info-bott">
-                    <img src="{$smarty.const.images}/c1.jpg" alt=""/>
+                    <img src="<?php echo @images;?>
+/c1.jpg" alt=""/>
                     <p>文章分类：PQJ、 NYOJ、 数据结构、 字符串处理、动态规划、&nbsp; 乱七八糟 、贪心、 搜索、 数论、&nbsp; 矩阵、&nbsp; 图论、 Game、 ACMer、 树状数组、
                         线段数、</p>
                     <h5>访问：142249次&nbsp;&nbsp;&nbsp;&nbsp; 积分：2440</h5>
@@ -145,7 +185,8 @@
                     <h3>nyist_xiaod <span class="gd-clr">大神博客</h3></span>
                 </div>
                 <div class="info-bott">
-                    <img src="{$smarty.const.images}/c2.jpg" alt=""/>
+                    <img src="<?php echo @images;?>
+/c2.jpg" alt=""/>
                     <p>
                         文章分类：点点滴滴、学习笔记、比赛总结、动态规划、计算几何、字符串、模拟、贪心、搜索、&nbsp;博弈、Template、图论、OfferKiller、&nbsp;&nbsp;数学、数据结构</p>
                     <h5>访问：335078次&nbsp;&nbsp;&nbsp;&nbsp; 积分：6431</h5>
@@ -160,7 +201,8 @@
                     <h3>Chris-Chang <span class="gd-clr">大神博客</h3></span>
                 </div>
                 <div class="info-bott">
-                    <img src="{$smarty.const.images}/c3.jpg" alt=""/>
+                    <img src="<?php echo @images;?>
+/c3.jpg" alt=""/>
                     <p>文章分类：PHP详解、PHP问题解决、Linux详解、Linux问题解决、C和指南针、数据结构、Git&Svn、Kettle、MySQL详解、环境配置、Smarty、ThinkPHP</p>
                     <h5>访问：37002次&nbsp;&nbsp;&nbsp;&nbsp; 积分：1206</h5>
                 </div>
@@ -181,37 +223,44 @@
         <ul id="flexiselDemo4">
             <li>
                 <div class="grid col-md-4">
-                    <img src="{$smarty.const.image}/prize_1.png" alt="prize_1">
+                    <img src="<?php echo @image;?>
+/prize_1.png" alt="prize_1">
                 </div>
             </li>
             <li>
                 <div class="grid col-md-4">
-                    <img src="{$smarty.const.image}/prize_2.png" alt="prize_2">
+                    <img src="<?php echo @image;?>
+/prize_2.png" alt="prize_2">
                 </div>
             </li>
             <li>
                 <div class="grid col-md-4">
-                    <img src="{$smarty.const.image}/prize_3.png" alt="prize_3">
+                    <img src="<?php echo @image;?>
+/prize_3.png" alt="prize_3">
                 </div>
             </li>
             <li>
                 <div class="grid col-md-4">
-                    <img src="{$smarty.const.image}/prize_4.png" alt="prize_4">
+                    <img src="<?php echo @image;?>
+/prize_4.png" alt="prize_4">
                 </div>
             </li>
             <li>
                 <div class="grid col-md-4">
-                    <img src="{$smarty.const.image}/prize_5.png" alt="prize_5">
+                    <img src="<?php echo @image;?>
+/prize_5.png" alt="prize_5">
                 </div>
             </li>
             <li>
                 <div class="grid col-md-4">
-                    <img src="{$smarty.const.image}/prize_6.png" alt="prize_6">
+                    <img src="<?php echo @image;?>
+/prize_6.png" alt="prize_6">
                 </div>
             </li>
             <li>
                 <div class="grid col-md-4">
-                    <img src="{$smarty.const.image}/prize_7.png" alt="prize_7">
+                    <img src="<?php echo @image;?>
+/prize_7.png" alt="prize_7">
                 </div>
             </li>
         </ul>
@@ -237,7 +286,8 @@
             </div>
             <div class="col-md-4 footer-grid wow bounceIn" data-wow-delay="0.4s">
                 <h3>如何成为优秀程序员？</h3>
-                <img src="{$smarty.const.images}/c4.jpg" alt=""/>
+                <img src="<?php echo @images;?>
+/c4.jpg" alt=""/>
                 <p>秉持对编程的乐趣和激情，你最需要的是坚持和努力，而不是机遇。一个优秀的程序员就是那种即使是过单行道都要往两边看的人。——Doug Linder</p>
                 <div class="ftr-bwn">
                     <a href="http://www.codeceo.com/article/10-effective-way-good-programmer.html" class="hvr-pulse" target="_blank">Read
@@ -266,10 +316,13 @@
 </div>
 <!--copyrights end here-->
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script src="{$smarty.const.js}/jquery.min.js"></script>
-<script src="{$smarty.const.js}/jquery-1.11.0.min.js"></script>
+<script src="<?php echo @js;?>
+/jquery.min.js"></script>
+<script src="<?php echo @js;?>
+/jquery-1.11.0.min.js"></script>
 <!-- Custom Theme files -->
-<script src="{$smarty.const.js}/bootstrap.min.js"></script>
+<script src="<?php echo @js;?>
+/bootstrap.min.js"></script>
 <script type="text/javascript">
     $(window).load(function () {
         $("#flexiselDemo4").flexisel({
@@ -297,6 +350,8 @@
 
     });
 </script>
-<script type="text/javascript" src="{$smarty.const.js}/jquery.flexisel.js"></script>
+<script type="text/javascript" src="<?php echo @js;?>
+/jquery.flexisel.js"></script>
 </body>
 </html>
+<?php }} ?>

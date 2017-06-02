@@ -1,26 +1,54 @@
-<!DOCTYPE HTML>
+<?php /* Smarty version Smarty-3.1.6, created on 2017-06-02 22:59:33
+         compiled from "F:/wamp/www/topcoder/Home/View\Project\suanfa.html" */ ?>
+<?php /*%%SmartyHeaderCode:462159317bbd44c613-58365013%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+$_valid = $_smarty_tpl->decodeProperties(array (
+  'file_dependency' => 
+  array (
+    '9f704ac372e0d5b3ec2774eaa71028c6b22e523c' => 
+    array (
+      0 => 'F:/wamp/www/topcoder/Home/View\\Project\\suanfa.html',
+      1 => 1496415554,
+      2 => 'file',
+    ),
+  ),
+  'nocache_hash' => '462159317bbd44c613-58365013',
+  'function' => 
+  array (
+  ),
+  'version' => 'Smarty-3.1.6',
+  'unifunc' => 'content_59317bbdc79d1',
+  'has_nocache_code' => false,
+),false); /*/%%SmartyHeaderCode%%*/?>
+<?php if ($_valid && !is_callable('content_59317bbdc79d1')) {function content_59317bbdc79d1($_smarty_tpl) {?><!DOCTYPE HTML>
 <html>
 <head>
 <title>算法组</title>
-<link href="{$smarty.const.css}/bootstrap.css" rel="stylesheet" type="text/css" media="all">
-<link rel="bookmark"  type="image/x-icon"  href="{$smarty.const.image}/logo.ico"/>
-<link rel="shortcut icon" href="{$smarty.const.image}/logo.ico"> 
-<link rel="icon" href="{$smarty.const.image}/logo.ico">
+<link href="<?php echo @css;?>
+/bootstrap.css" rel="stylesheet" type="text/css" media="all">
+<link rel="bookmark"  type="image/x-icon"  href="<?php echo @image;?>
+/logo.ico"/>
+<link rel="shortcut icon" href="<?php echo @image;?>
+/logo.ico"> 
+<link rel="icon" href="<?php echo @image;?>
+/logo.ico">
 <!-- Custom Theme files -->
-<link href="{$smarty.const.css}/style.css" rel="stylesheet" type="text/css" media="all"/>
+<link href="<?php echo @css;?>
+/style.css" rel="stylesheet" type="text/css" media="all"/>
 <!-- Custom Theme files -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="topcoder, tc, topcoder工作室, tc工作室" />
 
 <!---- animated-css ---->
-		<link href="{$smarty.const.css}/animate.css" rel="stylesheet" type="text/css" media="all">
+		<link href="<?php echo @css;?>
+/animate.css" rel="stylesheet" type="text/css" media="all">
 <!---- animated-css ---->
 <style type="text/css">
 	.navg ul li a.active{
 		text-decoration:none;
 		color:#fff;
-		background: url({$smarty.const.images}/nav-back.png)no-repeat 0px -3px;
+		background: url(<?php echo @images;?>
+/nav-back.png)no-repeat 0px -3px;
 		background-size:initial;
 		transition: 0.5s all;
 		-webkit-transition: 0.5s all;
@@ -31,7 +59,8 @@
 	.projects_add{
 		margin:20px 0 0 0;
 		padding:20px;
-		/*background: url({$smarty.const.images}/slid-bg.jpg);*/
+		/*background: url(<?php echo @images;?>
+/slid-bg.jpg);*/
 		background:#E0E0E0;
 		box-shadow:2px 2px 3px #ccc; 
 	}
@@ -39,7 +68,8 @@
 		margin:20px 0 0 20px;
 	}*/
 	.projects-inform .row{
-		/*background:url({$smarty.const.images}/slid-bg.jpg);*/
+		/*background:url(<?php echo @images;?>
+/slid-bg.jpg);*/
 	}
 	.projects-inform ul.ftr-list li{
 		border-bottom:0;
@@ -51,7 +81,8 @@
 		font-size: 1.2em;
 	}
 	.projects-inform .col_text{
-		background: url({$smarty.const.images}/slid-bg.jpg);
+		background: url(<?php echo @images;?>
+/slid-bg.jpg);
 		box-shadow: 3px 3px 5px #eee;
 		padding:20px 0 10px 0;
 	}
@@ -99,17 +130,25 @@
 	<div class="container head-nav-back">
 		<div class="header-main">
 			<div class="logo wow bounceIn" data-wow-delay="0.4s">
-				<a href="index.html"> <img src="{$smarty.const.images}/logo1.png" alt=""/> </a>
+				<a href="index.html"> <img src="<?php echo @images;?>
+/logo1.png" alt=""/> </a>
 			</div>
 			<div class="navg">
-				<span class="menu"> <img src="{$smarty.const.images}/icon.png" alt=""/></span>
+				<span class="menu"> <img src="<?php echo @images;?>
+/icon.png" alt=""/></span>
 				<ul class="res">
-					<li><a href="{$smarty.const.__APP__}/Index/index.html">首页</a></li>
-					<li><a href="{$smarty.const.__APP__}/Project/about.html">简介</a></li>
-					<li><a class="active" href="{$smarty.const.__APP__}/Project/suanfa.html">算法</a></li>
-					<li><a href="{$smarty.const.__APP__}/Project/single.html">项目</a></li>
-					<li><a href="{$smarty.const.__APP__}/Project/project.html">相册</a></li>
-					<li><a href="{$smarty.const.__APP__}/Project/contact.html">加入我们</a></li>
+					<li><a href="<?php echo @__APP__;?>
+/Index/index.html">首页</a></li>
+					<li><a href="<?php echo @__APP__;?>
+/Project/about.html">简介</a></li>
+					<li><a class="active" href="<?php echo @__APP__;?>
+/Project/suanfa.html">算法</a></li>
+					<li><a href="<?php echo @__APP__;?>
+/Project/single.html">项目</a></li>
+					<li><a href="<?php echo @__APP__;?>
+/Project/project.html">相册</a></li>
+					<li><a href="<?php echo @__APP__;?>
+/Project/contact.html">加入我们</a></li>
 				</ul>
 			</div>
 			<div class="clearfix"> </div>
@@ -127,7 +166,8 @@
 			  </div>
 			  <div class="projects-inform projects_add wow bounceInLeft" data-wow-delay="0.4s">
 				 <div class="project-img">
-					<img src="{$smarty.const.image}/show_2.jpg" alt=""/>
+					<img src="<?php echo @image;?>
+/show_2.jpg" alt=""/>
 				 </div>
 				 <div class="project-text">
 				 	<h4>我追求</h4>
@@ -137,7 +177,8 @@
 			  </div>
 			  <div class="projects-inform projects_add wow bounceInRight" data-wow-delay="0.4s">
 				 <div class="project-img" style="float:right;">
-					<img src="{$smarty.const.image}/show_3.jpg" alt=""/>
+					<img src="<?php echo @image;?>
+/show_3.jpg" alt=""/>
 				 </div>
 				 <div class="project-text" style="float:left;">
 				 	<h4>我创新</h4>
@@ -251,7 +292,8 @@
 			</div>
 			<div class="col-md-4 footer-grid wow bounceIn" data-wow-delay="0.4s">
 				<h3>如何成为优秀程序员？</h3>
-				<img src="{$smarty.const.images}/c4.jpg" alt=""/>
+				<img src="<?php echo @images;?>
+/c4.jpg" alt=""/>
 				<p>秉持对编程的乐趣和激情，你最需要的是坚持和努力，而不是机遇。一个优秀的程序员就是那种即使是过单行道都要往两边看的人。——Doug Linder</p>
 				<div class="ftr-bwn">
 					<a href="http://www.codeceo.com/article/10-effective-way-good-programmer.html" class="hvr-pulse">Read More</a>
@@ -283,3 +325,4 @@
 </html>
 
 
+<?php }} ?>

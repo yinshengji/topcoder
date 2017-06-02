@@ -1,13 +1,38 @@
-<!DOCTYPE HTML>
+<?php /* Smarty version Smarty-3.1.6, created on 2017-06-02 22:52:41
+         compiled from "F:/wamp/www/topcoder/Home/View\Project\about.html" */ ?>
+<?php /*%%SmartyHeaderCode:2306759317bb9121c26-44920791%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+$_valid = $_smarty_tpl->decodeProperties(array (
+  'file_dependency' => 
+  array (
+    '6fd53ab694692db02b64e9a91d1d16cc6d1c4c61' => 
+    array (
+      0 => 'F:/wamp/www/topcoder/Home/View\\Project\\about.html',
+      1 => 1496414842,
+      2 => 'file',
+    ),
+  ),
+  'nocache_hash' => '2306759317bb9121c26-44920791',
+  'function' => 
+  array (
+  ),
+  'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.6',
+  'unifunc' => 'content_59317bb969206',
+),false); /*/%%SmartyHeaderCode%%*/?>
+<?php if ($_valid && !is_callable('content_59317bb969206')) {function content_59317bb969206($_smarty_tpl) {?><!DOCTYPE HTML>
 <html>
 <head>
 <title>关于我们</title>
-<link href="{$smarty.const.css}/bootstrap.css" rel="stylesheet" type="text/css" media="all">
+<link href="<?php echo @css;?>
+/bootstrap.css" rel="stylesheet" type="text/css" media="all">
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script src="{$smarty.const.js}/jquery.min.js"></script>
+<script src="<?php echo @js;?>
+/jquery.min.js"></script>
 <!-- Custom Theme files -->
-<link href="{$smarty.const.css}/style.css" rel="stylesheet" type="text/css" media="all"/>
-<link href="{$smarty.const.css}/hover.css" rel="stylesheet" media="all">
+<link href="<?php echo @css;?>
+/style.css" rel="stylesheet" type="text/css" media="all"/>
+<link href="<?php echo @css;?>
+/hover.css" rel="stylesheet" media="all">
 <!-- Custom Theme files -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -17,14 +42,18 @@
 <!--Google Fonts-->
 <!--<link href='http://fonts.useso.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,200italic,300italic,400italic,600italic,700italic,900italic' rel='stylesheet' type='text/css'>-->
 <!-- 新增标题小图标 -->
-<link rel="shortcut icon" href="{$smarty.const.images}/logo.ico">
+<link rel="shortcut icon" href="<?php echo @images;?>
+/logo.ico">
 <!-- start-smoth-scrolling -->
-<script type="text/javascript" src="{$smarty.const.js}/move-top.js"></script>
-<script type="text/javascript" src="{$smarty.const.js}/easing.js"></script>
+<script type="text/javascript" src="<?php echo @js;?>
+/move-top.js"></script>
+<script type="text/javascript" src="<?php echo @js;?>
+/easing.js"></script>
 
 <!-- //end-smoth-scrolling -->
 <!-- animated-css -->
-		<link href="{$smarty.const.css}/animate.css" rel="stylesheet" type="text/css" media="all">
+		<link href="<?php echo @css;?>
+/animate.css" rel="stylesheet" type="text/css" media="all">
 <!-- animated-css -->
 <style>
 	.love-coder{
@@ -43,17 +72,25 @@
 	<div class="container head-nav-back">
 		<div class="header-main">
 			<div class="logo wow bounceIn" data-wow-delay="0.4s">
-				<a href="index.html"> <img src="{$smarty.const.images}/logo1.png" alt=""/> </a>
+				<a href="index.html"> <img src="<?php echo @images;?>
+/logo1.png" alt=""/> </a>
 			</div>
 			<div class="navg">
-				<span class="menu"> <img src="{$smarty.const.images}/icon.png" alt=""/></span>
+				<span class="menu"> <img src="<?php echo @images;?>
+/icon.png" alt=""/></span>
 				<ul class="res">
-					<li><a href="{$smarty.const.__APP__}/Index/index.html">首页</a></li>
-					<li><a class="active" href="{$smarty.const.__APP__}/Project/about.html"  target="_blank">简介</a></li>
-					<li><a href="{$smarty.const.__APP__}/Project/suanfa.html">算法</a></li>
-					<li><a href="{$smarty.const.__APP__}/Project/single.html">项目</a></li>
-					<li><a href="{$smarty.const.__APP__}/Project/project.html">相册</a></li>
-					<li><a href="{$smarty.const.__APP__}/Project/contact.html">加入我们</a></li>
+					<li><a href="<?php echo @__APP__;?>
+/Index/index.html">首页</a></li>
+					<li><a class="active" href="<?php echo @__APP__;?>
+/Project/about.html"  target="_blank">简介</a></li>
+					<li><a href="<?php echo @__APP__;?>
+/Project/suanfa.html">算法</a></li>
+					<li><a href="<?php echo @__APP__;?>
+/Project/single.html">项目</a></li>
+					<li><a href="<?php echo @__APP__;?>
+/Project/project.html">相册</a></li>
+					<li><a href="<?php echo @__APP__;?>
+/Project/contact.html">加入我们</a></li>
 				</ul>
 			</div>
 			<div class="clearfix"> </div>
@@ -67,7 +104,8 @@
 		<div class="about-main">
 			<div class="col-md-4 about-left wow bounceIn" data-wow-delay="0.4s">
 				<h3 style="color:#000;">关于我们</h3>
-				<img src="{$smarty.const.images}/about1.jpg" alt=""/>
+				<img src="<?php echo @images;?>
+/about1.jpg" alt=""/>
 			</div>
 			<div class="col-md-4 about-left wow bounceIn" data-wow-delay="0.4s">
 				<h3 style="color:#000;">TopCoder工作室</h3>
@@ -84,13 +122,16 @@
 			<div class="col-md-4 about-left wow bounceIn" data-wow-delay="0.4s">
 				<h3 style="color:#000;">加入我们</h3>
 				
-					<span style="width:15px;height:15px;background-image:url({$smarty.const.images}/li-ar.png);display:inline-block;"></span><h4 style="display:inline;">为热爱而生</h4>
+					<span style="width:15px;height:15px;background-image:url(<?php echo @images;?>
+/li-ar.png);display:inline-block;"></span><h4 style="display:inline;">为热爱而生</h4>
 					<p style="color:#666;text-indent:2em;letter-spacing:1px;overflow:hidden;">欢迎你加入我们TopCoder的大家庭，我们是一群有理想，有能力，有想法的大学生。我们不怕任何的困难，因为我们有激情和活力 </p>
 				
-				<span style="width:15px;height:15px;background-image:url({$smarty.const.images}/li-ar.png);display:inline-block;"></span>
+				<span style="width:15px;height:15px;background-image:url(<?php echo @images;?>
+/li-ar.png);display:inline-block;"></span>
 				<h4 style="display:inline;">热爱编程</h4>
 				<p style="color:#666;text-indent:2em;letter-spacing:1px;overflow:hidden;">我们，一群编程爱好者，无悔于青春的选择，用无数的代码，编织着高尚的梦想； 用严谨的逻辑，书写自己的辉煌！ </p>
-				<span style="width:15px;height:15px;background-image:url({$smarty.const.images}/li-ar.png);display:inline-block;"></span> 
+				<span style="width:15px;height:15px;background-image:url(<?php echo @images;?>
+/li-ar.png);display:inline-block;"></span> 
 				<h4 style="display:inline;">喜欢网络开发</h4>
 			    <p style="color:#666;text-indent:2em;letter-spacing:1px;"overflow:hidden;> 一群向上奋斗的年轻人，好奇的心，带我们进入这里；争先的思想，使我们留在这里；我们用自己的态度，承担起自己的大学生活!</p>
 			</div>
@@ -106,16 +147,20 @@
 		<div class="team-main" > 
 			<h3>我们的团队</h3>
 			 <div class="col-md-3 team-grids wow bounceIn" data-wow-delay="0.4s">
-			 	<img src="{$smarty.const.images}/port2.jpg" alt=""/>
+			 	<img src="<?php echo @images;?>
+/port2.jpg" alt=""/>
 			 </div>
 			 <div class="col-md-3 team-grids wow bounceIn" data-wow-delay="0.4s">
-			 	<img src="{$smarty.const.images}/port1.jpg" alt=""/>
+			 	<img src="<?php echo @images;?>
+/port1.jpg" alt=""/>
 			 </div>
 			 <div class="col-md-3 team-grids wow bounceIn" data-wow-delay="0.4s">
-			 	<img src="{$smarty.const.images}/port3.jpg" alt=""/>
+			 	<img src="<?php echo @images;?>
+/port3.jpg" alt=""/>
 			 </div>
 			 <div class="col-md-3 team-grids wow bounceIn" data-wow-delay="0.4s">
-			 	<img src="{$smarty.const.images}/port4.jpg" alt=""/>
+			 	<img src="<?php echo @images;?>
+/port4.jpg" alt=""/>
 			 </div>
 		  <div class="clearfix"> </div>
 		</div>
@@ -140,7 +185,8 @@
 			</div>
 			<div class="col-md-4 footer-grid wow bounceIn" data-wow-delay="0.4s">
 			  <h3>如何成为优秀程序员？</h3>
-			  <img src="{$smarty.const.images}/c4.jpg" alt=""/>
+			  <img src="<?php echo @images;?>
+/c4.jpg" alt=""/>
 			  <p>秉持对编程的乐趣和激情，你最需要的是坚持和努力，而不是机遇。一个优秀的程序员就是那种即使是过单行道都要往两边看的人。——Doug Linder</p>
 			  <div class="ftr-bwn">
 			<a href="http://www.codeceo.com/article/10-effective-way-good-programmer.html" class="hvr-pulse">Read More</a>
@@ -170,3 +216,4 @@
 
 </body>
 </html>
+<?php }} ?>

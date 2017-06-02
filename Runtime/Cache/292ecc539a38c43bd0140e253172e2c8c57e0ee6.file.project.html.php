@@ -1,29 +1,59 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<?php /* Smarty version Smarty-3.1.6, created on 2017-06-02 23:11:23
+         compiled from "F:/wamp/www/topcoder/Home/View\Project\project.html" */ ?>
+<?php /*%%SmartyHeaderCode:278875931801b63d038-96271149%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+$_valid = $_smarty_tpl->decodeProperties(array (
+  'file_dependency' => 
+  array (
+    '292ecc539a38c43bd0140e253172e2c8c57e0ee6' => 
+    array (
+      0 => 'F:/wamp/www/topcoder/Home/View\\Project\\project.html',
+      1 => 1496415771,
+      2 => 'file',
+    ),
+  ),
+  'nocache_hash' => '278875931801b63d038-96271149',
+  'function' => 
+  array (
+  ),
+  'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.6',
+  'unifunc' => 'content_5931801bd3a03',
+),false); /*/%%SmartyHeaderCode%%*/?>
+<?php if ($_valid && !is_callable('content_5931801bd3a03')) {function content_5931801bd3a03($_smarty_tpl) {?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <title>相册</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <!-- 标题图标 -->
-<link rel="bookmark"  type="image/x-icon"  href="{$smarty.const.image}/logo.ico"/>
-<link rel="shortcut icon" href="{$smarty.const.image}/logo.ico"> 
-<link rel="icon" href="{$smarty.const.image}/logo.ico">
+<link rel="bookmark"  type="image/x-icon"  href="<?php echo @image;?>
+/logo.ico"/>
+<link rel="shortcut icon" href="<?php echo @image;?>
+/logo.ico"> 
+<link rel="icon" href="<?php echo @image;?>
+/logo.ico">
 <!-- 标题图标 -->
-<link rel="stylesheet" href="{$smarty.const.css}/baguettebox.min.css">
-<link rel="stylesheet" href="{$smarty.const.css}/stylee.css">
-<link href="{$smarty.const.css}/bootstrap.css" rel="stylesheet" type="text/css" media="all">
+<link rel="stylesheet" href="<?php echo @css;?>
+/baguettebox.min.css">
+<link rel="stylesheet" href="<?php echo @css;?>
+/stylee.css">
+<link href="<?php echo @css;?>
+/bootstrap.css" rel="stylesheet" type="text/css" media="all">
 
-<script src="{$smarty.const.js}/baguettebox.min.js"></script>
+<script src="<?php echo @js;?>
+/baguettebox.min.js"></script>
 
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script src="{$smarty.const.js}/jquery.min.js"></script>
+<script src="<?php echo @js;?>
+/jquery.min.js"></script>
 <!-- Custom Theme files -->
-<link href="{$smarty.const.css}/style.css" rel="stylesheet" type="text/css" media="all"/>
+<link href="<?php echo @css;?>
+/style.css" rel="stylesheet" type="text/css" media="all"/>
 <!-- Custom Theme files -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="topcoder, tc, topcoder工作室, tc工作室, 算法, 项目, 南阳理工" />
-{literal}
+
 
         <style>
         *{
@@ -68,7 +98,7 @@
            }
         </style>
 
-{/literal}
+
 
 </head>
 <body>
@@ -77,17 +107,25 @@
   <div class="container head-nav-back">
     <div class="header-main">
       <div class="logo wow bounceIn" data-wow-delay="0.4s">
-        <a href="index.html"> <img src="{$smarty.const.images}/logo1.png" alt=""/> </a>
+        <a href="index.html"> <img src="<?php echo @images;?>
+/logo1.png" alt=""/> </a>
       </div>
       <div class="navg">
-        <span class="menu"> <img src="{$smarty.const.images}/icon.png" alt=""/></span>
+        <span class="menu"> <img src="<?php echo @images;?>
+/icon.png" alt=""/></span>
         <ul class="res">
-          <li><a href="{$smarty.const.__APP__}/Index/index.html">首页</a></li>
-          <li><a href="{$smarty.const.__APP__}/Project/about.html">简介</a></li>
-          <li><a href="{$smarty.const.__APP__}/Project/suanfa.html">算法</a></li>
-          <li><a href="{$smarty.const.__APP__}/Project/single.html">项目</a></li>
-          <li><a class="active" href="{$smarty.const.__APP__}/Project/project.html">相册</a></li>
-          <li><a href="{$smarty.const.__APP__}/Project/contact.html">加入我们</a></li>
+          <li><a href="<?php echo @__APP__;?>
+/Index/index.html">首页</a></li>
+          <li><a href="<?php echo @__APP__;?>
+/Project/about.html">简介</a></li>
+          <li><a href="<?php echo @__APP__;?>
+/Project/suanfa.html">算法</a></li>
+          <li><a href="<?php echo @__APP__;?>
+/Project/single.html">项目</a></li>
+          <li><a class="active" href="<?php echo @__APP__;?>
+/Project/project.html">相册</a></li>
+          <li><a href="<?php echo @__APP__;?>
+/Project/contact.html">加入我们</a></li>
         </ul>
          <script>
                               $( "span.menu").click(function() {
@@ -117,49 +155,57 @@
                     <div class="row">
                         <div class="col col-md-3 col-sm-4 col-xs-6 photo">
                             <div class="kuang">
-                                <a href="xiangce?im=1" ><img src="{$smarty.const.images}/1-1.jpg" style="width:100%; height:100%;"></a>
+                                <a href="xiangce?im=1" ><img src="<?php echo @images;?>
+/1-1.jpg" style="width:100%; height:100%;"></a>
                                 <p>TC环境</p>
                             </div>
                         </div>
                         <div class="col col-md-3 col-sm-4 col-xs-6 photo">
                             <div class="kuang">
-                                <a href="xiangce?im=2"><img src="{$smarty.const.images}/1-1.jpg"  style="width:100%; height:100%;"></a>
+                                <a href="xiangce?im=2"><img src="<?php echo @images;?>
+/1-1.jpg"  style="width:100%; height:100%;"></a>
                                 <p>户外活动</p>
                             </div>
                         </div>
                         <div class="col col-md-3 col-sm-4 col-xs-6 photo">
                             <div class="kuang">
-                                <a href="xiangce?im=3"><img src="{$smarty.const.images}/1-1.jpg" style="width:100%; height:100%;"></a>
+                                <a href="xiangce?im=3"><img src="<?php echo @images;?>
+/1-1.jpg" style="width:100%; height:100%;"></a>
                                 <p>小聚餐</p>
                             </div>
                         </div>
                         <div class="col col-md-3 col-sm-4 col-xs-6 photo">
                             <div class="kuang">
-                                <a href="xiangce?im=4"><img src="{$smarty.const.images}/1-1.jpg" style="width:100%; height:100%;"></a>
+                                <a href="xiangce?im=4"><img src="<?php echo @images;?>
+/1-1.jpg" style="width:100%; height:100%;"></a>
                                 <p>新生培训</p>
                             </div>
                         </div>
                         <div class="col col-md-3 col-sm-4 col-xs-6 photo">
                             <div class="kuang">
-                                <a href="xiangce?im=5"><img src="{$smarty.const.images}/1-1.jpg" style="width:100%; height:100%;"></a>
+                                <a href="xiangce?im=5"><img src="<?php echo @images;?>
+/1-1.jpg" style="width:100%; height:100%;"></a>
                                 <p>寒暑假集训</p>
                             </div>
                         </div>
                         <div class="col col-md-3 col-sm-4 col-xs-6 photo">
                             <div class="kuang">
-                                <a href="xiangce?im=6" ><img src="{$smarty.const.images}/1-1.jpg" style="width:100%; height:100%;"></a>
+                                <a href="xiangce?im=6" ><img src="<?php echo @images;?>
+/1-1.jpg" style="width:100%; height:100%;"></a>
                                 <p>每周例会</p>
                             </div>
                         </div>
                         <div class="col col-md-3 col-sm-4 col-xs-6 photo">
                             <div class="kuang">
-                                <a href="xiangce?im=7"><img src="{$smarty.const.images}/1-1.jpg"  style="width:100%; height:100%;"></a>
+                                <a href="xiangce?im=7"><img src="<?php echo @images;?>
+/1-1.jpg"  style="width:100%; height:100%;"></a>
                                 <p>TC藏书</p>
                             </div>
                         </div>
                         <div class="col col-md-3 col-sm-4 col-xs-6 photo">
                             <div class="kuang">
-                                <a href="xiangce?im=8"><img src="{$smarty.const.images}/1-1.jpg" style="width:100%; height:100%;"></a>
+                                <a href="xiangce?im=8"><img src="<?php echo @images;?>
+/1-1.jpg" style="width:100%; height:100%;"></a>
                                 <p>成员风貌</p>
                             </div>
                         </div>
@@ -178,7 +224,8 @@
                <h3 class="modal-title">登录操作</h3>
             </div>
           <div class="modal-body">
-             <form  class="form-horizontal" action="{$smarty.const.__SELF__}" method="post">
+             <form  class="form-horizontal" action="<?php echo @__SELF__;?>
+" method="post">
                  <div class="form-group">
                      <label for="" class="col-sm-2 control-label">用户名</label>
                      <div class="col-sm-10">
@@ -221,7 +268,8 @@
             </div>
             <div class="col-md-4 footer-grid wow bounceIn" data-wow-delay="0.4s">
               <h3>如何成为优秀程序员？</h3>
-              <img src="{$smarty.const.images}/c4.jpg" alt=""/>
+              <img src="<?php echo @images;?>
+/c4.jpg" alt=""/>
               <p>秉持对编程的乐趣和激情，你最需要的是坚持和努力，而不是机遇。一个优秀的程序员就是那种即使是过单行道都要往两边看的人。——Doug Linder</p>
               <div class="ftr-bwn">
             <a href="http://www.codeceo.com/article/10-effective-way-good-programmer.html" class="hvr-pulse">Read More</a>
@@ -248,8 +296,10 @@
     </div>
 </div>
 <!--copyrights end here-->
-<script src="{$smarty.const.js}js/jquery.min.js"></script>
-<script src="{$smarty.const.js}js/bootstrap.min.js"></script>
+<script src="<?php echo @js;?>
+js/jquery.min.js"></script>
+<script src="<?php echo @js;?>
+js/bootstrap.min.js"></script>
 <script>
   $(function(){
     $(".btn").click(function(){
@@ -264,3 +314,4 @@ baguetteBox.run('.baguetteBoxOne', {
 </html>
 
 
+<?php }} ?>
